@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flask Model Inference Tester</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f4f4f4; }
+    textarea, input, button { width: 100%; margin-top: 10px; padding: 10px; font-size: 16px; }
+    .result { background: white; padding: 10px; margin-top: 15px; border-left: 4px solid #4CAF50; }
+  </style>
+</head>
+<body>
+
+  <h2>Text Classification</h2>
+  <textarea id="classifyText" rows="4" placeholder="Enter text to classify..."></textarea>
+  <button onclick="classify()">Classify</button>
+  <div id="classifyResult" class="result"></div>
+
+  <hr>
+
+  <h2>Topic Labeling</h2>
+  <textarea id="labelTexts" rows="6" placeholder='Enter multiple documents, one per line...'></textarea>
+  <button onclick="label()">Label Topics</button>
+  <div id="labelResult" class="result"></div>
+
+  <script>
+    const baseURL = "http://localhost:5000";
+
+    async function classify() {
+      const text = document.getElementById("classifyText").value;
+      const response = await fetch(`${baseURL}/classify`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text })
+      });
+      const data = await response.json();
+      document.getElementById("classifyResult").innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+    }
+
+    async function label() {
+      const raw = document.getElementById("labelTexts").value;
+      const documents = raw.split("\n").filter(line => line.trim() !== "");
+      const response = await fetch(`${baseURL}/label`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ documents })
+      });
+      const data = await response.json();
+      const formattedResults = data.map(result => ({
+        sentiment: result.sentiment,
+        topic_label: result.topic_label
+      }));
+      document.getElementById("labelResult").innerHTML = `<pre>${JSON.stringify(formattedResults, null, 2)}</pre>`;
+    }
+  </script>
+
+</body>
+</html>

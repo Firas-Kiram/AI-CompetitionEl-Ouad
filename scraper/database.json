@@ -1,0 +1,455 @@
+{
+    "universities": [
+      {
+        "name": "University of El Oued",
+        "url": "https://www.univ-eloued.dz/en/",
+        "faculties": [
+          { "name": "Faculty of Exact Sciences", "url": "https://www.univ-eloued.dz/en/faculty/exact-sciences/" },
+          { "name": "Faculty of Nature and Life Sciences", "url": "https://www.univ-eloued.dz/en/faculty/nature-life-sciences/" },
+          { "name": "Faculty of Technology", "url": "https://www.univ-eloued.dz/en/faculty/technology/" },
+          { "name": "Faculty of Economic, Commercial and Management Sciences", "url": "https://www.univ-eloued.dz/en/faculty/economic-sciences/" },
+          { "name": "Faculty of Social Sciences and Humanities", "url": "https://www.univ-eloued.dz/en/faculty/social-sciences/" },
+          { "name": "Faculty of Law and Political Science", "url": "https://www.univ-eloued.dz/en/faculty/law-political-science/" },
+          { "name": "Faculty of Arts and Languages", "url": "https://www.univ-eloued.dz/en/faculty/arts-languages/" }
+        ],
+        "departments": [
+          { "name": "Department of Mathematics", "faculty": "Faculty of Exact Sciences" },
+          { "name": "Department of Physics", "faculty": "Faculty of Exact Sciences" },
+          { "name": "Department of Chemistry", "faculty": "Faculty of Exact Sciences" },
+          { "name": "Department of Computer Science", "faculty": "Faculty of Exact Sciences" },
+          { "name": "Department of Civil Engineering", "faculty": "Faculty of Technology" },
+          { "name": "Department of Electrical Engineering", "faculty": "Faculty of Technology" },
+          { "name": "Department of Mechanical Engineering", "faculty": "Faculty of Technology" },
+          { "name": "Department of Biology", "faculty": "Faculty of Nature and Life Sciences" },
+          { "name": "Department of Economics", "faculty": "Faculty of Economic, Commercial and Management Sciences" },
+          { "name": "Department of Management", "faculty": "Faculty of Economic, Commercial and Management Sciences" }
+        ],
+        "specialties": [
+          { "name": "Applied Mathematics", "department": "Department of Mathematics" },
+          { "name": "Theoretical Physics", "department": "Department of Physics" },
+          { "name": "Software Engineering", "department": "Department of Computer Science" },
+          { "name": "Networking and Security", "department": "Department of Computer Science" },
+          { "name": "Structural Engineering", "department": "Department of Civil Engineering" },
+          { "name": "Environmental Biology", "department": "Department of Biology" },
+          { "name": "Business Administration", "department": "Department of Management" }
+        ],
+        "news": [
+          {
+            "title": "N/A",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%aa%d8%b1%d9%82%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d8%b3%d8%a7%d8%b3-%d8%a7%d9%84%d8%b4%d9%87%d8%a7%d8%af%d8%a9/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "انطلاق المسابقة الوطنية ستارتون بجامعة الوادي",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa%d9%88%d9%86-%d8%a8%d8%ac%d8%a7%d9%85/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "جامعة الوادي تواصل مشاركتها واستضافتها لدورات Masterclasses الدولية في الفيزياء والطاقة",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%aa%d9%87%d8%a7-%d9%88%d8%a7%d8%b3%d8%aa%d8%b6%d8%a7%d9%81%d8%aa/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "جامعة الوادي تنظم يوماً تحسيسياً حول مخاطر الشاشات والإدمان على الإنترنت",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%aa%d9%86%d8%b8%d9%85-%d9%8a%d9%88%d9%85%d8%a7%d9%8b-%d8%aa%d8%ad%d8%b3%d9%8a%d8%b3%d9%8a%d8%a7%d9%8b-%d8%ad%d9%88%d9%84-%d9%85/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "مدير جامعة الشهيد حمه لخضر البروفيسور عمر فرحاتي في لقاء معايدة للأسرة الجامعية",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d9%85%d8%af%d9%8a%d8%b1-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af-%d8%ad%d9%85%d9%87-%d9%84%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%81%d9%8a%d8%b3%d9%88%d8%b1/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "الآمين العآم لجامعة الوادي يعقد اجتماعا تنسيقيا حول كأس الجزائر الجامعية لرياضة كرة القدم المصغرة مع ممثلي المدينة الجامعية",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%a7%d9%84%d8%a2%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d8%a2%d9%85-%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%8a%d8%b9%d9%82%d8%af-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "جامعة الوادي تشارك فعاليات تكريم براعم الذكر الحكيم في طبعتها الاولى",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%aa%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d8%aa%d9%83%d8%b1%d9%8a%d9%85-%d8%a8%d8%b1%d8%a7%d8%b9/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "مدير جامعة الوادي يفتتح منتدى مقهى الأعمال بمشاركة المجلس الوطني الاقتصادي والاجتماعي والبيئي – ومختصون يناقشون واقع الفعل الاقتصادي للمجتمع المدني وآليات التحول نحو المقاولاتية",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d9%85%d8%af%d9%8a%d8%b1-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%8a%d9%81%d8%aa%d8%aa%d8%ad-%d9%85%d9%86%d8%aa%d8%af%d9%89-%d9%85%d9%82%d9%87%d9%89-%d8%a7%d9%84%d8%a3/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "تهنيؔه",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%aa%d9%87%d9%86%d9%8a%d9%94%d9%87/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          },
+          {
+            "title": "دعوة",
+            "description": "N/A",
+            "date": "N/A",
+            "link": "https://www.univ-eloued.dz/en/%d8%af%d8%b9%d9%88%d8%a9/",
+            "content": "N/A",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          }
+        ],
+        "events": [
+          {
+            "title": "6th International Conference on Environmental Design and Health, ICED2025",
+            "date": "March 23, 2025",
+            "link": "https://www.univ-eloued.dz/en/iced2025/",
+            "content": "6th International Conference on Environmental Design and Health, ICED2025 announcement and details",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+          }
+        ]
+      },
+      {
+        "name": "ENSIA",
+        "url": "https://www.ensia.edu.dz",
+        "faculties": [
+          { "name": "Faculty of Food Sciences", "url": "https://www.ensia.edu.dz/faculty/food-sciences/" },
+          { "name": "Faculty of Food Engineering", "url": "https://www.ensia.edu.dz/faculty/food-engineering/" }
+        ],
+        "departments": [
+          { "name": "Department of Food Technology", "faculty": "Faculty of Food Sciences" },
+          { "name": "Department of Nutrition and Food Safety", "faculty": "Faculty of Food Sciences" },
+          { "name": "Department of Process Engineering", "faculty": "Faculty of Food Engineering" },
+          { "name": "Department of Quality Assurance", "faculty": "Faculty of Food Engineering" }
+        ],
+        "specialties": [
+          { "name": "Food Processing Technology", "department": "Department of Food Technology" },
+          { "name": "Food Preservation", "department": "Department of Food Technology" },
+          { "name": "Nutritional Sciences", "department": "Department of Nutrition and Food Safety" },
+          { "name": "Food Safety Management", "department": "Department of Nutrition and Food Safety" },
+          { "name": "Food Process Engineering", "department": "Department of Process Engineering" },
+          { "name": "Food Quality Management", "department": "Department of Quality Assurance" }
+        ],
+        "news": [
+          {
+            "title": "ENSIA Hosts International Food Science Conference",
+            "description": "The National School of Food Science and Agri-food Industries hosted the 5th International Conference on Food Innovation and Safety.",
+            "date": "N/A",
+            "link": "https://www.ensia.edu.dz/news/international-food-science-conference/",
+            "content": "N/A",
+            "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/03/conference-image.jpg"
+          },
+          {
+            "title": "New Research Partnership with Industry Leaders",
+            "description": "ENSIA announces new research partnerships with leading food industry companies to advance innovation in food processing technologies.",
+            "date": "N/A",
+            "link": "https://www.ensia.edu.dz/news/research-partnership-industry/",
+            "content": "N/A",
+            "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/02/partnership-signing.jpg"
+          },
+          {
+            "title": "Student Research Showcase 2025",
+            "description": "ENSIA students presented their innovative research projects at the annual Student Research Showcase.",
+            "date": "N/A",
+            "link": "https://www.ensia.edu.dz/news/student-research-showcase-2025/",
+            "content": "N/A",
+            "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/02/student-showcase.jpg"
+          }
+        ],
+        "events": [
+          {
+            "title": "Food Innovation Workshop",
+            "date": "April 15, 2025",
+            "link": "https://www.ensia.edu.dz/events/food-innovation-workshop/",
+            "content": "Join us for a hands-on workshop exploring cutting-edge food innovation techniques and technologies.",
+            "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/03/workshop-banner.jpg"
+          },
+          {
+            "title": "Annual Food Science Symposium",
+            "date": "May 20, 2025",
+            "link": "https://www.ensia.edu.dz/events/annual-food-science-symposium/",
+            "content": "The symposium brings together researchers, industry professionals, and students to discuss advancements in food science.",
+            "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/04/symposium-banner.jpg"
+          },
+          {
+            "title": "Career Fair: Food Industry Opportunities",
+            "date": "June 5, 2025",
+            "link": "https://www.ensia.edu.dz/events/career-fair-2025/",
+            "content": "Connect with potential employers and explore career opportunities in the food industry.",
+            "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/04/career-fair.jpg"
+          }
+        ]
+      },
+      {
+        "name": "University of Ghardaia",
+        "url": "https://www.univ-ghardaia.edu.dz/en/",
+        "faculties": [
+          { "name": "Faculty of Sciences and Technology", "url": "https://fst.univ-ghardaia.edu.dz" },
+          { "name": "Faculty of Natural Sciences, Life and Earth Sciences", "url": "https://fsnv.univ-ghardaia.edu.dz" },
+          { "name": "Faculty of Economic and Commercial Sciences and Management Sciences", "url": "https://fsecg.univ-ghardaia.edu.dz" },
+          { "name": "Faculty of Literature and Languages", "url": "https://fll.univ-ghardaia.edu.dz" },
+          { "name": "Faculty of Social Sciences and Humanities", "url": "https://fssh.univ-ghardaia.edu.dz" },
+          { "name": "Faculty of Law and Political Sciences", "url": "https://fdsp.univ-ghardaia.edu.dz" }
+        ],
+        "departments": [
+          { "name": "Department of Civil Engineering", "faculty": "Faculty of Sciences and Technology" },
+          { "name": "Department of Electrical Engineering", "faculty": "Faculty of Sciences and Technology" },
+          { "name": "Department of Mechanical Engineering", "faculty": "Faculty of Sciences and Technology" },
+          { "name": "Department of Computer Science", "faculty": "Faculty of Sciences and Technology" },
+          { "name": "Department of Biology", "faculty": "Faculty of Natural Sciences, Life and Earth Sciences" },
+          { "name": "Department of Environmental Sciences", "faculty": "Faculty of Natural Sciences, Life and Earth Sciences" },
+          { "name": "Department of Economics", "faculty": "Faculty of Economic and Commercial Sciences and Management Sciences" },
+          { "name": "Department of Management", "faculty": "Faculty of Economic and Commercial Sciences and Management Sciences" },
+          { "name": "Department of Commercial Sciences", "faculty": "Faculty of Economic and Commercial Sciences and Management Sciences" },
+          { "name": "Department of English Studies", "faculty": "Faculty of Literature and Languages" },
+          { "name": "Department of Arabic Language and Literature", "faculty": "Faculty of Literature and Languages" },
+          { "name": "Department of French Studies", "faculty": "Faculty of Literature and Languages" },
+          { "name": "Department of Sociology", "faculty": "Faculty of Social Sciences and Humanities" },
+          { "name": "Department of Psychology", "faculty": "Faculty of Social Sciences and Humanities" },
+          { "name": "Department of Law", "faculty": "Faculty of Law and Political Sciences" },
+          { "name": "Department of Political Sciences", "faculty": "Faculty of Law and Political Sciences" }
+        ],
+        "specialties": [
+          { "name": "Structural Engineering", "department": "Department of Civil Engineering" },
+          { "name": "Electrical Power Systems", "department": "Department of Electrical Engineering" },
+          { "name": "Mechanical Design", "department": "Department of Mechanical Engineering" },
+          { "name": "Software Engineering", "department": "Department of Computer Science" },
+          { "name": "Molecular Biology", "department": "Department of Biology" },
+          { "name": "Environmental Management", "department": "Department of Environmental Sciences" },
+          { "name": "Financial Economics", "department": "Department of Economics" },
+          { "name": "Business Administration", "department": "Department of Management" },
+          { "name": "Marketing", "department": "Department of Commercial Sciences" },
+          { "name": "English Literature", "department": "Department of English Studies" },
+          { "name": "Arabic Literature", "department": "Department of Arabic Language and Literature" },
+          { "name": "French Literature", "department": "Department of French Studies" },
+          { "name": "Community Development", "department": "Department of Sociology" },
+          { "name": "Clinical Psychology", "department": "Department of Psychology" },
+          { "name": "Civil Law", "department": "Department of Law" },
+          { "name": "International Relations", "department": "Department of Political Sciences" }
+        ],
+        "news": [
+          {
+            "title": "University of Ghardaia Hosts International Conference on Sustainable Development",
+            "description": "Leading researchers from around the world gathered to discuss innovative approaches to sustainable development in arid regions.",
+            "date": "N/A",
+            "link": "https://www.univ-ghardaia.edu.dz/en/news/international-conference-sustainable-development/",
+            "content": "N/A",
+            "image": "https://www.univ-ghardaia.edu.dz/wp-content/uploads/2025/03/conference-image.jpg"
+          },
+          {
+            "title": "New Research Center for Desert Ecology Inaugurated",
+            "description": "The state-of-the-art research center will focus on studying and preserving the unique ecosystem of the Sahara Desert.",
+            "date": "N/A",
+            "link": "https://www.univ-ghardaia.edu.dz/en/news/research-center-desert-ecology/",
+            "content": "N/A",
+            "image": "https://www.univ-ghardaia.edu.dz/wp-content/uploads/2025/02/research-center.jpg"
+          },
+          {
+            "title": "University Signs Partnership Agreement with European Universities",
+            "description": "The partnership will facilitate student and faculty exchange programs and joint research initiatives.",
+            "date": "N/A",
+            "link": "https://www.univ-ghardaia.edu.dz/en/news/partnership-european-universities/",
+            "content": "N/A",
+            "image": "https://www.univ-ghardaia.edu.dz/wp-content/uploads/2025/01/partnership-signing.jpg"
+          }
+        ],
+        "events": [
+          {
+            "title": "African Union Kwame Nkrumah Awards for Scientific Excellence",
+            "date": "November 8, 2020",
+            "link": "https://relex.univ-ghardaia.edu.dz/en/african-union-kwame-nkrumah-awards-for-scientific-excellence.html",
+            "content": "N/A",
+            "image": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/Kwame-Nkrumah.jpg"
+          },
+          {
+            "title": "Challenge Campus 2030 – Edition 2: Imagine the sustainable university of the future!",
+            "date": "November 3, 2020",
+            "link": "https://relex.univ-ghardaia.edu.dz/en/challenge-campus-2030-edition-2-imagine-the-sustainable-university-of-the-future.html",
+            "content": "Challenge Campus 2030 description and further details.",
+            "image": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/ONU_2021_Bannieres_post_fcb_-_1200X628-700x366-1-660x330.jpg"
+          }
+        ]
+      },
+      {
+        "name": "MIT",
+        "url": "https://web.mit.edu/education/schools-and-departments/",
+        "faculties": [
+          { "name": "School of Architecture and Planning", "url": "https://sap.mit.edu/" },
+          { "name": "School of Engineering", "url": "https://engineering.mit.edu/" },
+          { "name": "School of Humanities, Arts, and Social Sciences", "url": "https://shass.mit.edu/" },
+          { "name": "Sloan School of Management", "url": "http://mitsloan.mit.edu/" },
+          { "name": "School of Science", "url": "https://science.mit.edu" },
+          { "name": "MIT Schwarzman College of Computing", "url": "http://computing.mit.edu/" }
+        ],
+        "departments": [
+          {
+            "name": "Architecture",
+            "faculty": "School of Architecture and Planning",
+            "url": "https://architecture.mit.edu/",
+            "specialties": [
+              { "name": "Architecture + Urbanism", "url": "https://architecture.mit.edu/architecture-urbanism" },
+              { "name": "Art Culture + Technology", "url": "https://architecture.mit.edu/art-culture-technology" },
+              { "name": "Building Technology", "url": "https://architecture.mit.edu/building-technology" },
+              { "name": "Computation", "url": "https://architecture.mit.edu/computation" },
+              { "name": "History Theory + Criticism", "url": "https://architecture.mit.edu/history-theory-criticism" },
+              { "name": "Aga Khan Program for Islamic Architecture", "url": "https://architecture.mit.edu/aga-khan-program-islamic-architecture" },
+              { "name": "Undergraduate Architecture + Design", "url": "https://architecture.mit.edu/undergraduate-architecture-design" }
+            ]
+          },
+          {
+            "name": "Media Arts and Sciences",
+            "faculty": "Media Arts and SciencesMAS",
+            "url": "https://www.media.mit.edu/",
+            "specialties": []
+          },
+          {
+            "name": "Urban Studies and Planning",
+            "faculty": "Urban Studies and Planning11",
+            "url": "https://dusp.mit.edu/",
+            "specialties": []
+          },
+          {
+            "name": "Aeronautics and Astronautics",
+            "faculty": "Aeronautics and Astronautics16",
+            "url": "http://aeroastro.mit.edu/",
+            "specialties": [
+              { "name": "Aerospace Computational Engineering", "url": "N/A" },
+              { "name": "Aerospace Systems", "url": "N/A" },
+              { "name": "Air Transportation Systems", "url": "N/A" },
+              { "name": "Air-Breathing Propulsion", "url": "N/A" },
+              { "name": "Aircraft Systems Engineering", "url": "N/A" },
+              { "name": "Space Propulsion", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Biological Engineering",
+            "faculty": "Biological Engineering20",
+            "url": "https://be.mit.edu/",
+            "specialties": [
+              { "name": "Biomechanics and Biophysics", "url": "N/A" },
+              { "name": "Cell and Tissue Engineering", "url": "N/A" },
+              { "name": "Computational and Systems Biology", "url": "N/A" },
+              { "name": "Microbial Systems", "url": "N/A" },
+              { "name": "Molecular Engineering", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Chemical Engineering",
+            "faculty": "Chemical Engineering10",
+            "url": "https://cheme.mit.edu/",
+            "specialties": [
+              { "name": "Energy Science and Engineering", "url": "N/A" },
+              { "name": "Biomedical and Biotechnology", "url": "N/A" },
+              { "name": "Transport and Thermodynamics", "url": "N/A" },
+              { "name": "Materials and Product Engineering", "url": "N/A" },
+              { "name": "Catalysis and Reaction Engineering", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Civil and Environmental Engineering",
+            "faculty": "Civil and Environmental Engineering1",
+            "url": "https://cee.mit.edu/",
+            "specialties": [
+              { "name": "Environmental Chemistry", "url": "N/A" },
+              { "name": "Environmental Fluid Mechanics and Coastal Engineering", "url": "N/A" },
+              { "name": "Geotechnical Engineering", "url": "N/A" },
+              { "name": "Structures and Materials", "url": "N/A" },
+              { "name": "Systems Engineering", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Electrical Engineering and Computer Science",
+            "faculty": "Electrical Engineering and Computer Science6",
+            "url": "https://www.eecs.mit.edu/",
+            "specialties": [
+              { "name": "Artificial Intelligence", "url": "N/A" },
+              { "name": "Bioelectrical Engineering", "url": "N/A" },
+              { "name": "Computer Systems", "url": "N/A" },
+              { "name": "Graphics and Human-Computer Interfaces", "url": "N/A" },
+              { "name": "Integrated Circuits and Systems", "url": "N/A" },
+              { "name": "Machine Learning", "url": "N/A" },
+              { "name": "Robotics", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Materials Science and Engineering",
+            "faculty": "Materials Science and Engineering3",
+            "url": "https://dmse.mit.edu/",
+            "specialties": [
+              { "name": "Electronic, Photonic and Magnetic Materials", "url": "N/A" },
+              { "name": "Materials Processing", "url": "N/A" },
+              { "name": "Structural Materials", "url": "N/A" },
+              { "name": "Computational Materials Science", "url": "N/A" },
+              { "name": "Quantum Engineering", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Mechanical Engineering",
+            "faculty": "Mechanical Engineering2",
+            "url": "http://meche.mit.edu/",
+            "specialties": [
+              { "name": "Controls, Instrumentation, and Robotics", "url": "N/A" },
+              { "name": "Energy Science and Engineering", "url": "N/A" },
+              { "name": "Mechanics: Modeling, Experimentation, and Computation", "url": "N/A" },
+              { "name": "Design and Manufacturing", "url": "N/A" },
+              { "name": "Ocean Science and Engineering", "url": "N/A" },
+              { "name": "Biomedical Engineering", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Medical Engineering and Science",
+            "faculty": "Medical Engineering and ScienceIMES",
+            "url": "http://imes.mit.edu/",
+            "specialties": [
+              { "name": "Medical Devices", "url": "N/A" },
+              { "name": "Medical Imaging", "url": "N/A" },
+              { "name": "Medical Bioinformatics", "url": "N/A" },
+              { "name": "Biomedical Optics", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Nuclear Science and Engineering",
+            "faculty": "Nuclear Science and Engineering22",
+            "url": "http://web.mit.edu/nse/",
+            "specialties": [
+              { "name": "Nuclear Reactor Physics and Engineering", "url": "N/A" },
+              { "name": "Nuclear Security and Policy", "url": "N/A" },
+              { "name": "Nuclear Materials", "url": "N/A" },
+              { "name": "Fusion and Plasma Physics", "url": "N/A" },
+              { "name": "Radiation Sources, Detection, and Medical Applications", "url": "N/A" }
+            ]
+          },
+          {
+            "name": "Anthropology",
+            "faculty": "Anthropology21A",
+            "url": "http://anthropology.mit.edu/",
+            "specialties": [
+              { "name": "Cultural Anthropology", "url": "N/A" },
+              { "name": "Archaeology", "url": "N/A" },
+              { "name": "Science and Technology Studies", "url": "N/A" }
+            ]
+          }
+        ],
+        "specialties": [],
+        "news": [],
+        "events": []
+      }
+    ]
+  }
+  

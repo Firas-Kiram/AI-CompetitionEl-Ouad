@@ -1,0 +1,1547 @@
+[
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 1.1",
+            "VHS": "225h",
+            "VHH_total": "15h",
+            "VH_hebdo_C": "6h",
+            "VH_hebdo_TD": "6h",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "7",
+            "Credits": "15",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Foundational Mathematics",
+                "link": "https://www.ensia.edu.dz/Foundational-Mathematics"
+            },
+            "VHS": "135h",
+            "VHH_total": "9h",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "4h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "9",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Data Structures and Algorithms 1",
+                "link": "https://www.ensia.edu.dz/Data-Structures-and-Algorithms-1"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 1.1",
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Digital Systems",
+                "link": "https://www.ensia.edu.dz/Digital-Systems"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Découvertes 1.1",
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Information Technology Essentials",
+                "link": "https://www.ensia.edu.dz/Information-Technology-Essentials"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Transversales 1.1",
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "0h45",
+            "VH_hebdo_TD": "3h45",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "2",
+            "Credits": "7",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "English 1",
+                "link": "https://www.ensia.edu.dz/English-1"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Critical Thinking and Creativity Skills",
+                "link": "https://www.ensia.edu.dz/Critical-Thinking-and-Creativity-Skills"
+            },
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "0h45",
+            "VH_hebdo_TD": "0h45",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "25h30",
+            "VH_hebdo_C": "9h45",
+            "VH_hebdo_TD": "11h15",
+            "VH_hebdo_TP": "4h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "14",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 1 (15 Semaines)",
+            "VHS": "382h30",
+            "VHH_total": "146h15",
+            "VH_hebdo_C": "168h45",
+            "VH_hebdo_TD": "67h30",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 2.1",
+            "VHS": "135h",
+            "VHH_total": "9h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "4h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "7",
+            "Credits": "12",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Object Oriented Programming",
+                "link": "https://www.ensia.edu.dz/Object-Oriented-Programming"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Introduction to Linux",
+                "link": "https://www.ensia.edu.dz/Introduction-to-Linux"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 2.1",
+            "VHS": "225h",
+            "VHH_total": "15h",
+            "VH_hebdo_C": "7h30",
+            "VH_hebdo_TD": "7h30",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "10",
+            "Credits": "15",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Linear Algebra",
+                "link": "https://www.ensia.edu.dz/Linear-Algebra"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Mathematical Analysis 1",
+                "link": "https://www.ensia.edu.dz/Mathematical-Analysis-1"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Introduction to Statistics",
+                "link": "https://www.ensia.edu.dz/Introduction-to-Statistics"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Transversales 2.1",
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "1",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "English 2",
+                "link": "https://www.ensia.edu.dz/English-2"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "27h",
+            "VH_hebdo_C": "10h30",
+            "VH_hebdo_TD": "12h",
+            "VH_hebdo_TP": "4h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "18",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 2 (15 Semaines)",
+            "VHS": "405h",
+            "VHH_total": "157h30",
+            "VH_hebdo_C": "180",
+            "VH_hebdo_TD": "67h30",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 3.1",
+            "VHS": "180h",
+            "VHH_total": "12h",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "6h",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "9",
+            "Credits": "14",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Data Structures and Algorithms 2",
+                "link": "https://www.ensia.edu.dz/Data-Structures-and-Algorithms-2"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Mathematical Logic",
+                "link": "https://www.ensia.edu.dz/Mathematical-Logic"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Mathematical Analysis 2",
+                "link": "https://www.ensia.edu.dz/Mathematical-Analysis-2"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 3.1",
+            "VHS": "180h",
+            "VHH_total": "12h",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "4h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "7",
+            "Credits": "15",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Databases",
+                "link": "https://www.ensia.edu.dz/Databases"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Probability",
+                "link": "https://www.ensia.edu.dz/Probability"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Web Development",
+                "link": "https://www.ensia.edu.dz/Web-Development"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Transversales 3.1",
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "1",
+            "Credits": "1",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Introduction to Business",
+                "link": "https://www.ensia.edu.dz/Introduction-to-Business"
+            },
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "1",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "25h30",
+            "VH_hebdo_C": "10h30",
+            "VH_hebdo_TD": "9h",
+            "VH_hebdo_TP": "6h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "17",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 1 (15 Semaines)",
+            "VHS": "382h30",
+            "VHH_total": "157h30",
+            "VH_hebdo_C": "135h",
+            "VH_hebdo_TD": "90h",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 4.1",
+            "VHS": "180h",
+            "VHH_total": "12h",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "4h30",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "9",
+            "Credits": "14",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Theory of Computing",
+                "link": "https://www.ensia.edu.dz/Theory-of-Computing"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Operating Systems",
+                "link": "https://www.ensia.edu.dz/Operating-Systems"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Computer Architecture",
+                "link": "https://www.ensia.edu.dz/Computer-Architecture"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 4.1",
+            "VHS": "180h",
+            "VHH_total": "12h",
+            "VH_hebdo_C": "6h",
+            "VH_hebdo_TD": "4h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "9",
+            "Credits": "14",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Statistical Inference",
+                "link": "https://www.ensia.edu.dz/Statistical-Inference"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Introduction to AI",
+                "link": "https://www.ensia.edu.dz/Introduction-to-AI"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Mathematical Analysis 3",
+                "link": "https://www.ensia.edu.dz/Mathematical-Analysis-3"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Découvertes 4.1",
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "1",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Electronic Circuits Labs",
+                "link": "https://www.ensia.edu.dz/Electronic-Circuits-Labs"
+            },
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "25h30",
+            "VH_hebdo_C": "10h30",
+            "VH_hebdo_TD": "9h",
+            "VH_hebdo_TP": "6h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "19",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 2 (15 Semaines)",
+            "VHS": "382h30",
+            "VHH_total": "157h30",
+            "VH_hebdo_C": "135",
+            "VH_hebdo_TD": "90h",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 5.1",
+            "VHS": "112h30",
+            "VHH_total": "7h30",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "7",
+            "Credits": "9",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Data Mining",
+                "link": "https://www.ensia.edu.dz/Data-Mining"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Operations Research",
+                "link": "https://www.ensia.edu.dz/Operations-Research"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 5.1",
+            "VHS": "195h",
+            "VHH_total": "13h",
+            "VH_hebdo_C": "5h",
+            "VH_hebdo_TD": "4h30",
+            "VH_hebdo_TP": "3h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "9",
+            "Credits": "15",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Stochastic Modelling and Simulation",
+                "link": "https://www.ensia.edu.dz/Stochastic-Modelling-and-Simulation"
+            },
+            "VHS": "60h",
+            "VHH_total": "4h",
+            "VH_hebdo_C": "2h",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "0h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Software Engineering",
+                "link": "https://www.ensia.edu.dz/Software-Engineering"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Networks and Protocols",
+                "link": "https://www.ensia.edu.dz/Networks-and-Protocols"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Transversales 5.1",
+            "VHS": "101h15",
+            "VHH_total": "6h45",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "0h45",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "3",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Mobile Development",
+                "link": "https://www.ensia.edu.dz/Mobile-Development"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Entrepreneurship and Innovation",
+                "link": "https://www.ensia.edu.dz/Entrepreneurship-and-Innovation"
+            },
+            "VHS": "33h45",
+            "VHH_total": "2h15",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0h45",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "1",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "27h15",
+            "VH_hebdo_C": "11h",
+            "VH_hebdo_TD": "6h45",
+            "VH_hebdo_TP": "9h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "19",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 1 (15 Semaines)",
+            "VHS": "408h45",
+            "VHH_total": "165h",
+            "VH_hebdo_C": "101h15",
+            "VH_hebdo_TD": "142h30",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 6.1",
+            "VHS": "172h30",
+            "VHH_total": "11h30",
+            "VH_hebdo_C": "5h",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "3h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "7",
+            "Credits": "11",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Machine Learning",
+                "link": "https://www.ensia.edu.dz/Machine-Learning"
+            },
+            "VHS": "112h30",
+            "VHH_total": "7h30",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Numerical Methods and Optimisation",
+                "link": "https://www.ensia.edu.dz/Numerical-Methods-and-Optimisation"
+            },
+            "VHS": "60h",
+            "VHH_total": "4h",
+            "VH_hebdo_C": "2h",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "0h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 6.1",
+            "VHS": "187h30",
+            "VHH_total": "14",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "4h30",
+            "VH_hebdo_TP": "5h",
+            "VH_hebdo_Travail_Personnel": "3h",
+            "Coef": "11",
+            "Credits": "17",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Time Series Analysis and Classification",
+                "link": "https://www.ensia.edu.dz/Time-Series-Analysis-and-Classification"
+            },
+            "VHS": "52h30",
+            "VHH_total": "3h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "0h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Advanced Databases",
+                "link": "https://www.ensia.edu.dz/Advanced-Databases"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Computer and network Security",
+                "link": "https://www.ensia.edu.dz/Computer-and-network-Security"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Group-Project",
+                "link": "https://www.ensia.edu.dz/Group-Project"
+            },
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "3h",
+            "Coef": "2",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "100%",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "UE Transversales 6.1",
+            "VHS": "30h",
+            "VHH_total": "2h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0h30",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "1",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Project Management",
+                "link": "https://www.ensia.edu.dz/Project-Management"
+            },
+            "VHS": "30h",
+            "VHH_total": "2h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "27h30",
+            "VH_hebdo_C": "11h",
+            "VH_hebdo_TD": "8h",
+            "VH_hebdo_TP": "8h30",
+            "VH_hebdo_Travail_Personnel": "3h",
+            "Coef": "19",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 2 (15 Semaines)",
+            "VHS": "412h30",
+            "VHH_total": "165h",
+            "VH_hebdo_C": "120h",
+            "VH_hebdo_TD": "127h30",
+            "VH_hebdo_TP": "45h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 7.1",
+            "VHS": "157h30",
+            "VHH_total": "10h30",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "6h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "8",
+            "Credits": "11",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Natural Language Processing",
+                "link": "https://www.ensia.edu.dz/Natural-Language-Processing"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Deep Learning",
+                "link": "https://www.ensia.edu.dz/Deep-Learning"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 7.1",
+            "VHS": "180h",
+            "VHH_total": "12h",
+            "VH_hebdo_C": "4h30",
+            "VH_hebdo_TD": "3h",
+            "VH_hebdo_TP": "4h30",
+            "VH_hebdo_Travail_Personnel": "3h",
+            "Coef": "9",
+            "Credits": "15",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Human Computer Interaction",
+                "link": "https://www.ensia.edu.dz/Human-Computer-Interaction"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Wireless Communication Networks and Systems",
+                "link": "https://www.ensia.edu.dz/Wireless-Communication-Networks-and-Systems"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Introduction to Mobile Robotics",
+                "link": "https://www.ensia.edu.dz/Introduction-to-Mobile-Robotics"
+            },
+            "VHS": "67h30",
+            "VHH_total": "4h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "5",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Internship Project",
+                "link": "https://www.ensia.edu.dz/Internship-Project"
+            },
+            "VHS": "0",
+            "VHH_total": "0",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "3h",
+            "Coef": "2",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "100%",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "UE Découvertes 7.1",
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "1",
+            "Credits": "1",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "AI and Ethics",
+                "link": "https://www.ensia.edu.dz/AI-and-Ethics"
+            },
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "1",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Transversales 7.1",
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "2",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Selected topics in AI-Technology",
+                "link": "https://www.ensia.edu.dz/selected-topics-in-ai-and-technology"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "1h30",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "3",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "27h",
+            "VH_hebdo_C": "12h",
+            "VH_hebdo_TD": "4h30",
+            "VH_hebdo_TP": "10h30",
+            "VH_hebdo_Travail_Personnel": "3h",
+            "Coef": "20",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 1 (15 Semaines)",
+            "VHS": "405h",
+            "VHH_total": "180h",
+            "VH_hebdo_C": "67h30",
+            "VH_hebdo_TD": "157h30",
+            "VH_hebdo_TP": "45h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 8.1",
+            "VHS": "225h",
+            "VHH_total": "15h",
+            "VH_hebdo_C": "7h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "7h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "10",
+            "Credits": "16",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Computer Vision",
+                "link": "https://www.ensia.edu.dz/Computer-Vision"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "4",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Big Data Analytics and Visualization",
+                "link": "https://www.ensia.edu.dz/big-data-analytics-visualization"
+            },
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "6",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "Reinforcement Learning",
+                "link": "https://www.ensia.edu.dz/Reinforcement-Learning"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Methodologiques 8.1",
+            "VHS": "90h",
+            "VHH_total": "6h",
+            "VH_hebdo_C": "3h",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "3h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "5",
+            "Credits": "8",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Speech Processing",
+                "link": "https://www.ensia.edu.dz/Speech-Processing"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "3",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": {
+                "text": "High Performance Computing",
+                "link": "https://www.ensia.edu.dz/High-Performance-Computing"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Découvertes 8.1",
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Enterprise Computing",
+                "link": "https://www.ensia.edu.dz/Enterprise-Computing"
+            },
+            "VHS": "45h",
+            "VHH_total": "3h",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "1h30",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "2",
+            "Credits": "4",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "UE Transversales 8.1",
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "1",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Academic Communication and Research",
+                "link": "https://www.ensia.edu.dz/Academic-Communication-and-Research"
+            },
+            "VHS": "22h30",
+            "VHH_total": "1h30",
+            "VH_hebdo_C": "1h30",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": "1",
+            "Credits": "2",
+            "Mode_evaluation_Continu": "40%",
+            "Mode_evaluation_Examen": "60%"
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "25h30",
+            "VH_hebdo_C": "13h30",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "12h",
+            "VH_hebdo_Travail_Personnel": "0",
+            "Coef": "18",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 2 (15 Semaines)",
+            "VHS": "382h30",
+            "VHH_total": "202h30",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "180",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "",
+            "Coef": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 9.1",
+            "VHS": "0",
+            "VHH_total": "0",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "25h",
+            "Coef": "1",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Final Year Project",
+                "link": "https://www.ensia.edu.dz/Final-Year-Project"
+            },
+            "VHS": "",
+            "VHH_total": "0",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "25h",
+            "Coef": "1",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "100%",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "0",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "25h",
+            "Coef": "1",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 1 (15 Semaines)",
+            "VHS": "",
+            "VHH_total": "0",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "375h",
+            "Coef": "",
+            "Credits": "",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        }
+    ],
+    [
+        {
+            "unite_enseignement": "UE Fondamentales 9.1",
+            "VHS": "0",
+            "VHH_total": "0",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "25h",
+            "Coef": "1",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": {
+                "text": "Final Year Project",
+                "link": "https://www.ensia.edu.dz/Final-Year-Project"
+            },
+            "VHS": "",
+            "VHH_total": "0",
+            "VH_hebdo_C": "",
+            "VH_hebdo_TD": "",
+            "VH_hebdo_TP": "",
+            "VH_hebdo_Travail_Personnel": "25h",
+            "Coef": "1",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "100%",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Sous-Total par Semaine",
+            "VHS": "",
+            "VHH_total": "0",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "25h",
+            "Coef": "1",
+            "Credits": "30",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        },
+        {
+            "unite_enseignement": "Total Semestre 1 (15 Semaines)",
+            "VHS": "",
+            "VHH_total": "0",
+            "VH_hebdo_C": "0",
+            "VH_hebdo_TD": "0",
+            "VH_hebdo_TP": "0",
+            "VH_hebdo_Travail_Personnel": "375h",
+            "Coef": "",
+            "Credits": "",
+            "Mode_evaluation_Continu": "",
+            "Mode_evaluation_Examen": ""
+        }
+    ]
+]

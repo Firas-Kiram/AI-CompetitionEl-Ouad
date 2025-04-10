@@ -1,0 +1,66 @@
+{
+  "faculties": [
+    {
+      "name": "Faculty of Sciences and Technology",
+      "url": "https://fst.univ-ghardaia.edu.dz"
+    },
+    {
+      "name": "Faculty of Natural Sciences, Life and Earth Sciences",
+      "url": "https://fsnv.univ-ghardaia.edu.dz"
+    },
+    {
+      "name": "Faculty of Economic and Commercial Sciences and Management Sciences",
+      "url": "https://fsecg.univ-ghardaia.edu.dz"
+    },
+    {
+      "name": "Faculty of Literature and Languages",
+      "url": "https://fll.univ-ghardaia.edu.dz"
+    },
+    {
+      "name": "Faculty of Social Sciences and Humanities",
+      "url": "https://fssh.univ-ghardaia.edu.dz"
+    },
+    {
+      "name": "Faculty of Law and Political Sciences",
+      "url": "https://fdsp.univ-ghardaia.edu.dz"
+    }
+  ],
+  "events_page": "https://relex.univ-ghardaia.edu.dz/en/events-category/events",
+  "featured_events": [
+    {
+      "title": "African Union Kwame Nkrumah Awards for Scientific Excellence",
+      "link": "https://relex.univ-ghardaia.edu.dz/en/african-union-kwame-nkrumah-awards-for-scientific-excellence.html",
+      "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/Kwame-Nkrumah.jpg",
+      "date": "November 8, 2020",
+      "pdf_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/Lettre-DCEIU-min.pdf"
+    },
+    {
+      "title": "Challenge Campus 2030 – Edition 2: Imagine the sustainable university of the future!",
+      "link": "https://relex.univ-ghardaia.edu.dz/en/challenge-campus-2030-edition-2-imagine-the-sustainable-university-of-the-future.html",
+      "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/ONU_2021_Bannieres_post_fcb_-_1200X628-700x366-1-660x330.jpg",
+      "date": "November 3, 2020",
+      "content": "Challenge Campus 2030 – Edition 2: Imagine the sustainable university of the future!\nNovember 3, 2020\nAnnouncements\n,\nFeatured Articles\n224 Views\nImagine….\n«\nIt’s September 2030 and the Agenda for the 17 Sustainable Development Goals (SDGs) has ended. Students over the world are returning to their Campuses, which are now finally sustainable.\n»\nUniversity campuses are at the heart of the change: in 10 years, they should have achieved the 17 SDGs to be able to welcome and educate the next generation! What will these Campuses be like?\nImagine a solution that will allow these sites to be considered socially, economically and environmentally sustainable.\nFor More Informations :\nClick Here\nShare\nFacebook\nTwitter\nLinkedIn"
+    },
+    {
+      "title": "Launch a program “Global Ugrad”",
+      "link": "https://relex.univ-ghardaia.edu.dz/en/launch-a-program-global-ugrad.html",
+      "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2019/11/globale_ugrad-570x330.jpg",
+      "date": "October 20, 2020",
+      "pdf_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/10/CRU-Prog-Global-Ugrad-1-min.pdf"
+    },
+    {
+      "title": "MENA Scholarship Programme",
+      "link": "https://relex.univ-ghardaia.edu.dz/en/mena-scholarship-programme.html",
+      "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/03/Holland-Scholarship-for-International-Students.jpg",
+      "date": "September 29, 2020",
+      "content": "MENA Scholarship Programme\nSeptember 29, 2020\nFeatured Articles\n,\nScholarships\n206 Views\nScholarships from the Netherlands Embassy in Algiers, for short-term training,\nAs part of the MENA Scholarship Program (MSP) of the Dutch organization for international cooperation in higher education (NUFFIC) in various specialties.\nilovepdf_merged_compressed-2\nDownload\nShare\nFacebook\nTwitter\nLinkedIn"
+    },
+    {
+      "title": "SAFIR – Youth in action: Presentation of the Call for Applications for Higher Education and Research Institutions",
+      "link": "https://relex.univ-ghardaia.edu.dz/en/safir-youth-in-action-presentation-of-the-call-for-applications-for-higher-education-and-research-institutions.html",
+      "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2019/10/logo_auf_2018.png",
+      "date": "September 9, 2020",
+      "content": "SAFIR – Youth in action: Presentation of the Call for Applications for Higher Education and Research Institutions\nSeptember 9, 2020\nAnnouncements\n,\nFeatured Articles\n296 Views\nAAC_PDF-EESR_EN-min\nDownload\nShare\nFacebook\nTwitter\nLinkedIn"
+    }
+  ]
+}

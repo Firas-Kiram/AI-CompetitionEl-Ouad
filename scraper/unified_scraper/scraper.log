@@ -1,0 +1,217 @@
+2025-04-09 23:38:40,731 - __main__ - INFO - Initialized University of El Oued scraper with base URL: https://www.univ-eloued.dz/en/
+2025-04-09 23:38:40,731 - __main__ - INFO - Initialized ENSIA scraper with base URL: https://www.ensia.edu.dz
+2025-04-09 23:38:40,731 - __main__ - INFO - Initialized University of Ghardaia scraper with base URL: https://www.univ-ghardaia.edu.dz/en/
+2025-04-09 23:38:40,731 - __main__ - INFO - Starting to scrape University of El Oued...
+2025-04-09 23:38:40,731 - __main__ - WARNING - scrape_faculties() not implemented for University of El Oued
+2025-04-09 23:38:40,731 - __main__ - INFO - Scraping El Oued programs...
+2025-04-09 23:40:08,136 - __main__ - INFO - Scraped 8 faculties from El Oued
+2025-04-09 23:40:08,136 - __main__ - INFO - Scraping El Oued news...
+2025-04-09 23:40:16,457 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:40:21,853 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:40:27,010 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:40:35,510 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:40:40,685 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:40:48,592 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:40:56,332 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:41:02,033 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:41:08,077 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:41:13,502 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:41:13,502 - __main__ - INFO - Scraped 10 news items from El Oued
+2025-04-09 23:41:13,502 - __main__ - INFO - Scraping El Oued events...
+2025-04-09 23:42:03,052 - __main__ - INFO - Scraped 10 events from El Oued
+2025-04-09 23:42:03,052 - __main__ - INFO - Completed scraping University of El Oued
+2025-04-09 23:42:03,052 - __main__ - INFO - Starting to scrape ENSIA...
+2025-04-09 23:42:03,052 - __main__ - WARNING - scrape_faculties() not implemented for ENSIA
+2025-04-09 23:42:03,052 - __main__ - INFO - Scraping ENSIA programs...
+2025-04-09 23:42:34,738 - __main__ - WARNING - Attempt 1/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-09 23:43:07,625 - __main__ - WARNING - Attempt 2/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-09 23:43:42,136 - __main__ - WARNING - Attempt 3/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-09 23:43:42,136 - __main__ - ERROR - Failed to fetch https://www.ensia.edu.dz/program/ after 3 attempts
+2025-04-09 23:43:42,136 - __main__ - INFO - Scraping ENSIA news...
+2025-04-09 23:44:12,378 - __main__ - ERROR - Error fetching ENSIA news: The read operation timed out
+2025-04-09 23:44:12,378 - __main__ - WARNING - scrape_events() not implemented for ENSIA
+2025-04-09 23:44:12,378 - __main__ - INFO - Completed scraping ENSIA
+2025-04-09 23:44:12,378 - __main__ - INFO - Starting to scrape University of Ghardaia...
+2025-04-09 23:44:12,378 - __main__ - INFO - Scraping Ghardaia faculties...
+2025-04-09 23:44:19,632 - __main__ - INFO - Scraped 6 faculties from Ghardaia
+2025-04-09 23:44:19,632 - __main__ - WARNING - scrape_programs() not implemented for University of Ghardaia
+2025-04-09 23:44:19,632 - __main__ - WARNING - scrape_news() not implemented for University of Ghardaia
+2025-04-09 23:44:19,632 - __main__ - INFO - Scraping Ghardaia events...
+2025-04-09 23:44:41,180 - __main__ - INFO - Scraped 5 events from Ghardaia
+2025-04-09 23:44:41,180 - __main__ - INFO - Completed scraping University of Ghardaia
+2025-04-09 23:44:41,180 - __main__ - ERROR - Error saving unified data to scraped_data\unified_university_data_20250409_234441.json: [Errno 2] No such file or directory: 'scraped_data\\unified_university_data_20250409_234441.json'
+2025-04-09 23:44:41,180 - __main__ - INFO - Unified data saved to scraped_data\unified_university_data_20250409_234441.json
+2025-04-09 23:44:41,195 - __main__ - INFO - Scraped data from 3 universities
+2025-04-09 23:46:53,038 - __main__ - INFO - Initialized University of El Oued scraper with base URL: https://www.univ-eloued.dz/en/
+2025-04-09 23:46:53,062 - __main__ - INFO - Initialized ENSIA scraper with base URL: https://www.ensia.edu.dz
+2025-04-09 23:46:53,064 - __main__ - INFO - Initialized University of Ghardaia scraper with base URL: https://www.univ-ghardaia.edu.dz/en/
+2025-04-09 23:46:53,065 - __main__ - INFO - Starting to scrape University of El Oued...
+2025-04-09 23:46:53,066 - __main__ - WARNING - scrape_faculties() not implemented for University of El Oued
+2025-04-09 23:46:53,068 - __main__ - INFO - Scraping El Oued programs...
+2025-04-09 23:48:29,211 - __main__ - INFO - Scraped 8 faculties from El Oued
+2025-04-09 23:48:29,211 - __main__ - INFO - Scraping El Oued news...
+2025-04-09 23:48:36,694 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:40,217 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:43,970 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:45,856 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:48,171 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:50,117 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:51,906 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:53,730 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:55,725 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:57,671 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-09 23:48:57,687 - __main__ - INFO - Scraped 10 news items from El Oued
+2025-04-09 23:48:57,687 - __main__ - INFO - Scraping El Oued events...
+2025-04-09 23:50:05,341 - __main__ - INFO - Scraped 10 events from El Oued
+2025-04-09 23:50:05,341 - __main__ - INFO - Completed scraping University of El Oued
+2025-04-09 23:50:05,341 - __main__ - INFO - Starting to scrape ENSIA...
+2025-04-09 23:50:05,364 - __main__ - WARNING - scrape_faculties() not implemented for ENSIA
+2025-04-09 23:50:05,364 - __main__ - INFO - Scraping ENSIA programs...
+2025-04-09 23:50:37,745 - __main__ - WARNING - Attempt 1/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-09 23:51:10,299 - __main__ - WARNING - Attempt 2/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-09 23:51:44,632 - __main__ - WARNING - Attempt 3/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-09 23:51:44,632 - __main__ - ERROR - Failed to fetch https://www.ensia.edu.dz/program/ after 3 attempts
+2025-04-09 23:51:44,632 - __main__ - INFO - Scraping ENSIA news...
+2025-04-09 23:52:14,837 - __main__ - ERROR - Error fetching ENSIA news: The read operation timed out
+2025-04-09 23:52:14,837 - __main__ - WARNING - scrape_events() not implemented for ENSIA
+2025-04-09 23:52:14,837 - __main__ - INFO - Completed scraping ENSIA
+2025-04-09 23:52:14,837 - __main__ - INFO - Starting to scrape University of Ghardaia...
+2025-04-09 23:52:14,837 - __main__ - INFO - Scraping Ghardaia faculties...
+2025-04-09 23:52:22,179 - __main__ - INFO - Scraped 6 faculties from Ghardaia
+2025-04-09 23:52:22,179 - __main__ - WARNING - scrape_programs() not implemented for University of Ghardaia
+2025-04-09 23:52:22,179 - __main__ - WARNING - scrape_news() not implemented for University of Ghardaia
+2025-04-09 23:52:22,195 - __main__ - INFO - Scraping Ghardaia events...
+2025-04-09 23:52:42,305 - __main__ - INFO - Scraped 5 events from Ghardaia
+2025-04-09 23:52:42,320 - __main__ - INFO - Completed scraping University of Ghardaia
+2025-04-09 23:52:42,320 - __main__ - INFO - Successfully saved unified data to C:\Users\Sam-tech\Desktop\scraper\unified_scraper\unified_university_data_20250409_235242.json
+2025-04-09 23:52:42,320 - __main__ - INFO - Unified data saved to C:\Users\Sam-tech\Desktop\scraper\unified_scraper\unified_university_data_20250409_235242.json
+2025-04-09 23:52:42,336 - __main__ - INFO - Scraped data from 3 universities
+2025-04-10 00:51:42,220 - __main__ - INFO - Initialized University of El Oued scraper with base URL: https://www.univ-eloued.dz/en/
+2025-04-10 00:51:42,220 - __main__ - INFO - Initialized ENSIA scraper with base URL: https://www.ensia.edu.dz
+2025-04-10 00:51:42,220 - __main__ - INFO - Initialized University of Ghardaia scraper with base URL: https://www.univ-ghardaia.edu.dz/en/
+2025-04-10 00:51:42,220 - __main__ - INFO - Initialized MIT scraper with base URL: https://web.mit.edu/education/schools-and-departments/
+2025-04-10 00:51:42,220 - __main__ - INFO - Starting to scrape University of El Oued...
+2025-04-10 00:51:42,220 - __main__ - WARNING - scrape_faculties() not implemented for University of El Oued
+2025-04-10 00:51:42,220 - __main__ - INFO - Scraping El Oued programs...
+2025-04-10 00:53:18,586 - __main__ - INFO - Scraped 8 faculties from El Oued
+2025-04-10 00:53:18,586 - __main__ - INFO - Scraping El Oued news...
+2025-04-10 00:53:26,771 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:53:32,280 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:53:38,151 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:53:42,949 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:53:48,128 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:53:53,808 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:53:58,710 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:54:04,347 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:54:11,063 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:54:16,270 - __main__ - ERROR - No valid container found with an <h1> and at least three <h3> elements.
+2025-04-10 00:54:16,270 - __main__ - INFO - Scraped 10 news items from El Oued
+2025-04-10 00:54:16,285 - __main__ - INFO - Scraping El Oued events...
+2025-04-10 00:55:04,804 - __main__ - INFO - Scraped 10 events from El Oued
+2025-04-10 00:55:04,804 - __main__ - INFO - Completed scraping University of El Oued
+2025-04-10 00:55:04,804 - __main__ - INFO - Starting to scrape ENSIA...
+2025-04-10 00:55:04,804 - __main__ - WARNING - scrape_faculties() not implemented for ENSIA
+2025-04-10 00:55:04,804 - __main__ - INFO - Scraping ENSIA programs...
+2025-04-10 00:55:37,050 - __main__ - WARNING - Attempt 1/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-10 00:56:10,212 - __main__ - WARNING - Attempt 2/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-10 00:56:45,295 - __main__ - WARNING - Attempt 3/3 failed for https://www.ensia.edu.dz/program/: HTTPSConnectionPool(host='www.ensia.edu.dz', port=443): Read timed out. (read timeout=30)
+2025-04-10 00:56:45,295 - __main__ - ERROR - Failed to fetch https://www.ensia.edu.dz/program/ after 3 attempts
+2025-04-10 00:56:45,295 - __main__ - INFO - Scraping ENSIA news...
+2025-04-10 00:57:15,893 - __main__ - ERROR - Error fetching ENSIA news: The read operation timed out
+2025-04-10 00:57:15,893 - __main__ - WARNING - scrape_events() not implemented for ENSIA
+2025-04-10 00:57:15,893 - __main__ - INFO - Completed scraping ENSIA
+2025-04-10 00:57:15,893 - __main__ - INFO - Starting to scrape University of Ghardaia...
+2025-04-10 00:57:15,893 - __main__ - INFO - Scraping Ghardaia faculties...
+2025-04-10 00:57:22,911 - __main__ - INFO - Scraped 6 faculties from Ghardaia
+2025-04-10 00:57:22,911 - __main__ - WARNING - scrape_programs() not implemented for University of Ghardaia
+2025-04-10 00:57:22,911 - __main__ - WARNING - scrape_news() not implemented for University of Ghardaia
+2025-04-10 00:57:22,911 - __main__ - INFO - Scraping Ghardaia events...
+2025-04-10 00:57:41,807 - __main__ - INFO - Scraped 5 events from Ghardaia
+2025-04-10 00:57:41,807 - __main__ - INFO - Completed scraping University of Ghardaia
+2025-04-10 00:57:41,807 - __main__ - INFO - Starting to scrape MIT...
+2025-04-10 00:57:41,807 - __main__ - INFO - Scraping MIT faculties...
+2025-04-10 00:57:45,929 - __main__ - INFO - Scraped 6 faculties from MIT
+2025-04-10 00:57:45,929 - __main__ - INFO - Scraping MIT departments and specialties...
+2025-04-10 00:57:47,961 - __main__ - INFO - Extracting specialties from https://architecture.mit.edu/
+2025-04-10 00:57:52,182 - __main__ - INFO - Found 7 specialties in https://architecture.mit.edu/
+2025-04-10 00:57:52,182 - __main__ - INFO - Extracting specialties from https://www.media.mit.edu/
+2025-04-10 00:57:57,380 - __main__ - INFO - Found 0 specialties in https://www.media.mit.edu/
+2025-04-10 00:57:57,380 - __main__ - INFO - Extracting specialties from https://dusp.mit.edu/
+2025-04-10 00:58:00,492 - __main__ - INFO - Found 0 specialties in https://dusp.mit.edu/
+2025-04-10 00:58:00,492 - __main__ - INFO - Extracting specialties from http://aeroastro.mit.edu/
+2025-04-10 00:58:05,468 - __main__ - INFO - Found 0 specialties in http://aeroastro.mit.edu/
+2025-04-10 00:58:05,468 - __main__ - INFO - Extracting specialties from https://be.mit.edu/
+2025-04-10 00:58:08,031 - __main__ - WARNING - Attempt 1/3 failed for https://be.mit.edu/: HTTPSConnectionPool(host='be.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-04-10 00:58:11,498 - __main__ - WARNING - Attempt 2/3 failed for https://be.mit.edu/: HTTPSConnectionPool(host='be.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-04-10 00:58:16,714 - __main__ - WARNING - Attempt 3/3 failed for https://be.mit.edu/: HTTPSConnectionPool(host='be.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-04-10 00:58:16,714 - __main__ - ERROR - Failed to fetch https://be.mit.edu/ after 3 attempts
+2025-04-10 00:58:16,714 - __main__ - INFO - Extracting specialties from https://cheme.mit.edu/
+2025-04-10 00:58:22,464 - __main__ - INFO - Found 0 specialties in https://cheme.mit.edu/
+2025-04-10 00:58:22,464 - __main__ - INFO - Extracting specialties from https://cee.mit.edu/
+2025-04-10 00:58:26,345 - __main__ - INFO - Found 0 specialties in https://cee.mit.edu/
+2025-04-10 00:58:26,345 - __main__ - INFO - Extracting specialties from https://www.eecs.mit.edu/
+2025-04-10 00:58:30,709 - __main__ - INFO - Found 0 specialties in https://www.eecs.mit.edu/
+2025-04-10 00:58:30,709 - __main__ - INFO - Extracting specialties from https://dmse.mit.edu/
+2025-04-10 00:58:33,381 - __main__ - INFO - Found 0 specialties in https://dmse.mit.edu/
+2025-04-10 00:58:33,381 - __main__ - INFO - Extracting specialties from http://meche.mit.edu/
+2025-04-10 00:58:36,306 - __main__ - INFO - Found 0 specialties in http://meche.mit.edu/
+2025-04-10 00:58:36,306 - __main__ - INFO - Extracting specialties from http://imes.mit.edu/
+2025-04-10 00:58:40,786 - __main__ - INFO - Found 0 specialties in http://imes.mit.edu/
+2025-04-10 00:58:40,786 - __main__ - INFO - Extracting specialties from http://web.mit.edu/nse/
+2025-04-10 00:58:43,374 - __main__ - INFO - Found 0 specialties in http://web.mit.edu/nse/
+2025-04-10 00:58:43,374 - __main__ - INFO - Extracting specialties from http://anthropology.mit.edu/
+2025-04-10 00:58:46,847 - __main__ - INFO - Found 0 specialties in http://anthropology.mit.edu/
+2025-04-10 00:58:46,847 - __main__ - INFO - Extracting specialties from https://cmsw.mit.edu/
+2025-04-10 00:58:48,954 - __main__ - WARNING - Attempt 1/3 failed for https://cmsw.mit.edu/: HTTPSConnectionPool(host='cmsw.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-04-10 00:58:52,154 - __main__ - WARNING - Attempt 2/3 failed for https://cmsw.mit.edu/: HTTPSConnectionPool(host='cmsw.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-04-10 00:58:57,275 - __main__ - WARNING - Attempt 3/3 failed for https://cmsw.mit.edu/: HTTPSConnectionPool(host='cmsw.mit.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-04-10 00:58:57,275 - __main__ - ERROR - Failed to fetch https://cmsw.mit.edu/ after 3 attempts
+2025-04-10 00:58:57,275 - __main__ - INFO - Extracting specialties from http://economics.mit.edu/
+2025-04-10 00:58:59,654 - __main__ - INFO - Found 0 specialties in http://economics.mit.edu/
+2025-04-10 00:58:59,654 - __main__ - INFO - Extracting specialties from https://mitgsl.mit.edu/
+2025-04-10 00:59:05,332 - __main__ - INFO - Found 0 specialties in https://mitgsl.mit.edu/
+2025-04-10 00:59:05,332 - __main__ - INFO - Extracting specialties from http://history.mit.edu/
+2025-04-10 00:59:09,560 - __main__ - INFO - Found 0 specialties in http://history.mit.edu/
+2025-04-10 00:59:09,560 - __main__ - INFO - Extracting specialties from http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/humanities/
+2025-04-10 00:59:13,879 - __main__ - INFO - Found 0 specialties in http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/humanities/
+2025-04-10 00:59:13,879 - __main__ - INFO - Extracting specialties from https://shass.mit.edu/undergraduate/joint
+2025-04-10 00:59:16,623 - __main__ - INFO - Found 0 specialties in https://shass.mit.edu/undergraduate/joint
+2025-04-10 00:59:16,623 - __main__ - INFO - Extracting specialties from http://linguistics.mit.edu/
+2025-04-10 00:59:21,374 - __main__ - INFO - Found 0 specialties in http://linguistics.mit.edu/
+2025-04-10 00:59:21,374 - __main__ - INFO - Extracting specialties from https://lit.mit.edu/
+2025-04-10 00:59:27,982 - __main__ - INFO - Found 1 specialties in https://lit.mit.edu/
+2025-04-10 00:59:27,982 - __main__ - INFO - Extracting specialties from https://mta.mit.edu/
+2025-04-10 00:59:31,531 - __main__ - INFO - Found 0 specialties in https://mta.mit.edu/
+2025-04-10 00:59:31,531 - __main__ - INFO - Extracting specialties from http://web.mit.edu/philosophy/
+2025-04-10 00:59:35,127 - __main__ - INFO - Found 0 specialties in http://web.mit.edu/philosophy/
+2025-04-10 00:59:35,127 - __main__ - INFO - Extracting specialties from https://polisci.mit.edu/
+2025-04-10 00:59:37,379 - __main__ - INFO - Found 0 specialties in https://polisci.mit.edu/
+2025-04-10 00:59:37,379 - __main__ - INFO - Extracting specialties from http://sts-program.mit.edu/
+2025-04-10 00:59:42,494 - __main__ - INFO - Found 0 specialties in http://sts-program.mit.edu/
+2025-04-10 00:59:42,494 - __main__ - INFO - Extracting specialties from https://mitsloan.mit.edu/undergrad#15-1-management
+2025-04-10 00:59:45,334 - __main__ - INFO - Found 0 specialties in https://mitsloan.mit.edu/undergrad#15-1-management
+2025-04-10 00:59:45,334 - __main__ - INFO - Extracting specialties from https://biology.mit.edu/
+2025-04-10 00:59:50,214 - __main__ - INFO - Found 0 specialties in https://biology.mit.edu/
+2025-04-10 00:59:50,214 - __main__ - INFO - Extracting specialties from https://bcs.mit.edu/
+2025-04-10 00:59:53,017 - __main__ - INFO - Found 0 specialties in https://bcs.mit.edu/
+2025-04-10 00:59:53,017 - __main__ - INFO - Extracting specialties from http://chemistry.mit.edu/
+2025-04-10 00:59:57,580 - __main__ - INFO - Found 0 specialties in http://chemistry.mit.edu/
+2025-04-10 00:59:57,580 - __main__ - INFO - Extracting specialties from https://eapsweb.mit.edu/
+2025-04-10 01:00:04,625 - __main__ - INFO - Found 0 specialties in https://eapsweb.mit.edu/
+2025-04-10 01:00:04,625 - __main__ - INFO - Extracting specialties from https://math.mit.edu/
+2025-04-10 01:00:07,558 - __main__ - INFO - Found 0 specialties in https://math.mit.edu/
+2025-04-10 01:00:07,558 - __main__ - INFO - Extracting specialties from http://web.mit.edu/physics/
+2025-04-10 01:00:10,854 - __main__ - INFO - Found 0 specialties in http://web.mit.edu/physics/
+2025-04-10 01:00:10,854 - __main__ - INFO - Extracting specialties from https://idss.mit.edu/
+2025-04-10 01:00:21,033 - __main__ - INFO - Found 0 specialties in https://idss.mit.edu/
+2025-04-10 01:00:21,033 - __main__ - INFO - Extracting specialties from https://www.eecs.mit.edu/
+2025-04-10 01:00:23,586 - __main__ - INFO - Found 0 specialties in https://www.eecs.mit.edu/
+2025-04-10 01:00:23,586 - __main__ - INFO - Scraped 34 departments from MIT
+2025-04-10 01:00:23,586 - __main__ - INFO - Scraping MIT news...
+2025-04-10 01:00:25,341 - __main__ - INFO - Scraped 0 news items from MIT
+2025-04-10 01:00:25,341 - __main__ - INFO - Scraping MIT events...
+2025-04-10 01:00:28,017 - __main__ - INFO - Scraped 10 events from MIT
+2025-04-10 01:00:28,017 - __main__ - INFO - Completed scraping MIT
+2025-04-10 01:00:28,017 - __main__ - INFO - Successfully saved unified data to C:\Users\Sam-tech\Desktop\scraper\unified_scraper\unified_university_data_20250410_010028.json
+2025-04-10 01:00:28,017 - __main__ - INFO - Unified data saved to C:\Users\Sam-tech\Desktop\scraper\unified_scraper\unified_university_data_20250410_010028.json
+2025-04-10 01:00:28,017 - __main__ - INFO - Scraped data from 4 universities
