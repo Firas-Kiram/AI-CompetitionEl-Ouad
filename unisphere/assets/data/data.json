@@ -1,0 +1,1627 @@
+{
+    "universities": [
+        {
+            "name": "University of El Oued",
+            "url": "https://www.univ-eloued.dz/en/",
+            "staticLogo": "../assets/images/logo.png",
+            "faculties": [
+                {
+                    "name": "Faculty of Exact Sciences",
+                    "url": "https://www.univ-eloued.dz/en/faculty/exact-sciences/"
+                },
+                {
+                    "name": "Faculty of Nature and Life Sciences",
+                    "url": "https://www.univ-eloued.dz/en/faculty/nature-life-sciences/"
+                },
+                {
+                    "name": "Faculty of Technology",
+                    "url": "https://www.univ-eloued.dz/en/faculty/technology/"
+                },
+                {
+                    "name": "Faculty of Economic, Commercial and Management Sciences",
+                    "url": "https://www.univ-eloued.dz/en/faculty/economic-sciences/"
+                },
+                {
+                    "name": "Faculty of Social Sciences and Humanities",
+                    "url": "https://www.univ-eloued.dz/en/faculty/social-sciences/"
+                },
+                {
+                    "name": "Faculty of Law and Political Science",
+                    "url": "https://www.univ-eloued.dz/en/faculty/law-political-science/"
+                },
+                {
+                    "name": "Faculty of Arts and Languages",
+                    "url": "https://www.univ-eloued.dz/en/faculty/arts-languages/"
+                }
+            ],
+            "departments": [
+                {
+                    "name": "Department of Mathematics",
+                    "faculty": "Faculty of Exact Sciences"
+                },
+                {
+                    "name": "Department of Physics",
+                    "faculty": "Faculty of Exact Sciences"
+                },
+                {
+                    "name": "Department of Chemistry",
+                    "faculty": "Faculty of Exact Sciences"
+                },
+                {
+                    "name": "Department of Computer Science",
+                    "faculty": "Faculty of Exact Sciences"
+                },
+                {
+                    "name": "Department of Civil Engineering",
+                    "faculty": "Faculty of Technology"
+                },
+                {
+                    "name": "Department of Electrical Engineering",
+                    "faculty": "Faculty of Technology"
+                },
+                {
+                    "name": "Department of Mechanical Engineering",
+                    "faculty": "Faculty of Technology"
+                },
+                {
+                    "name": "Department of Biology",
+                    "faculty": "Faculty of Nature and Life Sciences"
+                },
+                {
+                    "name": "Department of Economics",
+                    "faculty": "Faculty of Economic, Commercial and Management Sciences"
+                },
+                {
+                    "name": "Department of Management",
+                    "faculty": "Faculty of Economic, Commercial and Management Sciences"
+                }
+            ],
+            "specialties": [
+                {
+                    "name": "Applied Mathematics",
+                    "department": "Department of Mathematics"
+                },
+                {
+                    "name": "Theoretical Physics",
+                    "department": "Department of Physics"
+                },
+                {
+                    "name": "Software Engineering",
+                    "department": "Department of Computer Science"
+                },
+                {
+                    "name": "Networking and Security",
+                    "department": "Department of Computer Science"
+                },
+                {
+                    "name": "Structural Engineering",
+                    "department": "Department of Civil Engineering"
+                },
+                {
+                    "name": "Environmental Biology",
+                    "department": "Department of Biology"
+                },
+                {
+                    "name": "Business Administration",
+                    "department": "Department of Management"
+                }
+            ],
+            "news": [
+                {
+                    "title": "",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%aa%d8%b1%d9%82%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d8%b3%d8%a7%d8%b3-%d8%a7%d9%84%d8%b4%d9%87%d8%a7%d8%af%d8%a9/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "انطلاق المسابقة الوطنية ستارتون بجامعة الوادي",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa%d9%88%d9%86-%d8%a8%d8%ac%d8%a7%d9%85/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "جامعة الوادي تواصل مشاركتها واستضافتها لدورات Masterclasses الدولية في الفيزياء والطاقة",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%aa%d9%87%d8%a7-%d9%88%d8%a7%d8%b3%d8%aa%d8%b6%d8%a7%d9%81%d8%aa/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "جامعة الوادي تنظم يوماً تحسيسياً حول مخاطر الشاشات والإدمان على الإنترنت",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%aa%d9%86%d8%b8%d9%85-%d9%8a%d9%88%d9%85%d8%a7%d9%8b-%d8%aa%d8%ad%d8%b3%d9%8a%d8%b3%d9%8a%d8%a7%d9%8b-%d8%ad%d9%88%d9%84-%d9%85/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "مدير جامعة الشهيد حمه لخضر البروفيسور عمر فرحاتي في لقاء معايدة للأسرة الجامعية",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d9%85%d8%af%d9%8a%d8%b1-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af-%d8%ad%d9%85%d9%87-%d9%84%d8%ae%d8%b6%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%81%d9%8a%d8%b3%d9%88%d8%b1/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "الآمين العآم لجامعة الوادي يعقد اجتماعا تنسيقيا حول كأس الجزائر الجامعية لرياضة كرة القدم المصغرة مع ممثلي المدينة الجامعية",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%a7%d9%84%d8%a2%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d8%a2%d9%85-%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%8a%d8%b9%d9%82%d8%af-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "جامعة الوادي تشارك فعاليات تكريم براعم الذكر الحكيم في طبعتها الاولى",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%aa%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d8%aa%d9%83%d8%b1%d9%8a%d9%85-%d8%a8%d8%b1%d8%a7%d8%b9/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "مدير جامعة الوادي يفتتح منتدى مقهى الأعمال بمشاركة المجلس الوطني الاقتصادي والاجتماعي والبيئي  – ومختصون يناقشون واقع الفعل الاقتصادي للمجتمع المدني وآليات التحول نحو المقاولاتية",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d9%85%d8%af%d9%8a%d8%b1-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%8a%d9%81%d8%aa%d8%aa%d8%ad-%d9%85%d9%86%d8%aa%d8%af%d9%89-%d9%85%d9%82%d9%87%d9%89-%d8%a7%d9%84%d8%a3/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "تهنيؔه",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%aa%d9%87%d9%86%d9%8a%d9%94%d9%87/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "دعوة",
+                    "date": "",
+                    "link": "https://www.univ-eloued.dz/en/%d8%af%d8%b9%d9%88%d8%a9/",
+                    "content": "",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                }
+            ],
+            "events": [
+                {
+                  "title": "6th International Conference on Environmental Design and Health, ICED2025",
+                  "date": "March 23, 2025",
+                  "link": "https://www.univ-eloued.dz/en/iced2025/",
+                  "content": "6th International Conference on Environmental Design and Health, ICED2025...",
+                  "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif",
+                  "comments": [
+                    {
+                      "id": "1",
+                      "username": "john_doe",
+                      "comment": "This event was very informative and well-organized.",
+                      "sentiment": "positive",
+                      "topic": "Environmental Design"
+                    },
+                    {
+                      "id": "2",
+                      "username": "jane_doe",
+                      "comment": "The schedule was a bit tight, but overall a great experience.",
+                      "sentiment": "neutral",
+                      "topic": "Event Organization"
+                    }
+                  ]
+                },
+                {
+                  "title": "The Second International Seminar On Catalysis, Chemical Engineering 1 Green Chemical CACEG-25",
+                  "date": "March 6, 2025",
+                  "link": "https://www.univ-eloued.dz/en/caceg-25/",
+                  "content": "The Second International Seminar On Catalysis, Chemical Engineering 1 Green Chemical CACEG-25...",
+                  "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif",
+                  "comments": [
+                    {
+                      "id": "1",
+                      "username": "tech_guru",
+                      "comment": "Amazing insights into green chemistry!",
+                      "sentiment": "positive",
+                      "topic": "Green Chemistry"
+                    },
+                    {
+                      "id": "2",
+                      "username": "science_enthus,iast",
+                      "comment": "The speakers were very knowledgeable.",
+                      "sentiment": "positive",
+                      "topic": "Speakers"
+                    }
+                  ]
+                },
+                {
+                    "title": "ملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج",
+                    "date": "February 11, 2025",
+                    "link": "https://www.univ-eloued.dz/en/%d9%85%d9%84%d8%aa%d9%82%d9%89-%d9%88%d8%b7%d9%86%d9%8a-%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%a4%d8%ab%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9/",
+                    "content": "ملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج - جامعة الشهيد حمه لخضر بالوادي\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج\nFebruary 11, 2025\nShare the article on your page\nملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج\nملتقى المخذرات\nPrev\nthe previous\nانطلاق التسجيلات لدورة فيفري2025\nthe next\nالصحافة تكتب: 2800 مترشحا في مسابقة الدكتوراه بجامعة الوادي\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "The third international conference on materials Energie & environment",
+                    "date": "January 6, 2025",
+                    "title": "The Second International Seminar On Catalysis, Chemical Engineering 1 Green Chemical CACEG-25",
+                    "date": "March 6, 2025",
+                    "link": "https://www.univ-eloued.dz/en/caceg-25/",
+                    "content": "The Second International Seminar On Catalysis, Chemical Engineering 1 Green Chemical CACEG-25 - جامعة الشهيد حمه لخضر بالوادي\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nThe Second International Seminar On Catalysis, Chemical Engineering 1 Green Chemical CACEG-25\nMarch 6, 2025\nShare the article on your page\nThe Second International Seminar On Catalysis, Chemical Engineering 1 Green Chemical CACEG-25\nCACEG-25\nPrev\nthe previous\nمدير جامعة الوادي يعقد اجتماعا موسعا مع الطاقم الإداري والبيداغوجي للجامعة\nthe next\nتعزية ومواساة من جامعة الشهيد حمه لخضر الوادي\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "ملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج",
+                    "date": "February 11, 2025",
+                    "link": "https://www.univ-eloued.dz/en/%d9%85%d9%84%d8%aa%d9%82%d9%89-%d9%88%d8%b7%d9%86%d9%8a-%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%a4%d8%ab%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9/",
+                    "content": "ملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج - جامعة الشهيد حمه لخضر بالوادي\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج\nFebruary 11, 2025\nShare the article on your page\nملتقى وطني حول : المخدرات والمؤثرات العقلية في المجتمع التشخيص وسبل الوقاية والعلاج\nملتقى المخذرات\nPrev\nthe previous\nانطلاق التسجيلات لدورة فيفري2025\nthe next\nالصحافة تكتب: 2800 مترشحا في مسابقة الدكتوراه بجامعة الوادي\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "The third international conference on materials Energie & environment",
+                    "date": "January 6, 2025",
+                    "link": "https://www.univ-eloued.dz/en/الندوة-التكوينية-الثانية-حول-قانون-ال/",
+                    "content": "The second training seminar on the new public procurement law (12/23) - University of Martyr Hamou Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nThe second training seminar on the new public procurement law (12/23)\nNovember 17, 2024\nShare the article on your page\nThe second training seminar on the new public procurement law (12/23)\nseminar\nPrev\nthe previous\nOffering Hongrois bourses\nthe next\nAl Wadi University hosts the scientific symposium of the International Festival of Desert Tourism\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "The International conference on water resources& Environmental change",
+                    "date": "January 6, 2025",
+                    "link": "https://www.univ-eloued.dz/en/الندوة-التكوينية-الثانية-حول-قانون-ال/",
+                    "content": "The second training seminar on the new public procurement law (12/23) - University of Martyr Hamou Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nThe second training seminar on the new public procurement law (12/23)\nNovember 17, 2024\nShare the article on your page\nThe second training seminar on the new public procurement law (12/23)\nseminar\nPrev\nthe previous\nOffering Hongrois bourses\nthe next\nAl Wadi University hosts the scientific symposium of the International Festival of Desert Tourism\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "إعلان تنظيم مؤتمر دولي حول السيادة الجوية الواقع والتحديات بدولة ليبيا",
+                    "date": "November 21, 2024",
+                    "link": "https://www.univ-eloued.dz/en/الندوة-التكوينية-الثانية-حول-قانون-ال/",
+                    "content": "The second training seminar on the new public procurement law (12/23) - University of Martyr Hamou Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nThe second training seminar on the new public procurement law (12/23)\nNovember 17, 2024\nShare the article on your page\nThe second training seminar on the new public procurement law (12/23)\nseminar\nPrev\nthe previous\nOffering Hongrois bourses\nthe next\nAl Wadi University hosts the scientific symposium of the International Festival of Desert Tourism\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "The second training seminar on the new public procurement law (12/23)",
+                    "date": "November 17, 2024",
+                    "link": "https://www.univ-eloued.dz/en/الندوة-التكوينية-الثانية-حول-قانون-ال/",
+                    "content": "The second training seminar on the new public procurement law (12/23) - University of Martyr Hamou Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nThe second training seminar on the new public procurement law (12/23)\nNovember 17, 2024\nShare the article on your page\nThe second training seminar on the new public procurement law (12/23)\nseminar\nPrev\nthe previous\nOffering Hongrois bourses\nthe next\nAl Wadi University hosts the scientific symposium of the International Festival of Desert Tourism\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "Training workshop on scientific publishing",
+                    "date": "November 4, 2024",
+                    "link": "https://www.univ-eloued.dz/en/training-workshop-scientific-publishing/",
+                    "content": "Training workshop on scientific publishing - University of Martyr Hamou Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nTraining workshop on scientific publishing\nNovember 4, 2024\nShare the article on your page\nTraining workshop on scientific publishing\nTraining workshop on scientific publishing\nPrev\nthe previous\nRegarding the announcement of a professional exam\nthe next\nThe Director of Al Wadi University chairs the meeting of the Housing Committee of the University City on the file of subsidized promotional housing\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "Tunisian-Algerian Universities Conference 5 + 5",
+                    "date": "October 27, 2024",
+                    "link": "https://www.univ-eloued.dz/en/tunisian-algerian-universities-conference/",
+                    "content": "Tunisian-Algerian Universities Conference 5 + 5 - University of Martyr Hama Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nTunisian-Algerian Universities Conference 5 + 5\nOctober 27, 2024\nShare the article on your page\nTunisian-Algerian Universities Conference 5 + 5\nTerms of Reference Innovation Challenge for Development 5+5\nMeeting Announcement\nPrev\nthe previous\nThe University of Wadi Al-Khaimah's Classification and Visibility Follow-up Committee evaluates and sets its strategy\nthe next\nAnnouncement regarding the fixation of national service periods\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                },
+                {
+                    "title": "Conference on the digital revolution in Santé",
+                    "date": "October 27, 2024",
+                    "link": "https://www.univ-eloued.dz/en/conference-revolution-number-sante/",
+                    "content": "Conference on the digital revolution in health - University of Martyr Hamou Lakhdar in El Oued\nD-Space\nE-Learning\nsustainable development\nEmployee space\nMedical attaché\nMedia Portal\nOur Policies and Guidelines\nConsulting and deals\nEN\nFR\nAR\nAbout the university\nRector's Welcome Speech\nAbout Echahid Hamma Lakhdar\nUniversity Scientific Council\nFacts and figures\nIntroduction to the university\nVisual identity\nAdministration\nPedagogy\nPost-graduation and scientific research\nCooperation and external relations\nDevelopment, foresight and guidance\nGeneral Secretariat\nSpecialized centers and committees\nFACULTIES\nExchange space\nDownload documents\nConsultations\nFaculty Members Pages\n5+5 agreement\nUniversity in journalism\nE-Learning\nUniversity Media Magazine\nEmployee space\nUniversity majors\nUNIVERSITY CHARTER OF DEONTOLOGY AND ETHICS\nStudent space\nModel answers\nTimetables\nDelegation of students\nBylaws\nFive star student\nStudent academic movement portal\nIT Resource Charter\nUniversity Services\nPsychological Assistance Center\nUniversity Clinic\nDigital platforms\nA platform for communicating with the university family\nRegistration platform\nDigital platforms\nFor the Ministry of Higher Education and Scientific Research\nGraduate students platform\nNational platforms\nDigital business incubator\ncall us\nConference on the digital revolution in Santé\nOctober 27, 2024\nShare the article on your page\nConference on the digital revolution in Santé\nAbstractTemplate\nartificial intelligence\nPrev\nthe previous\nThe press writes about the University of Wadi honoring the innovative student Lakhdar Hamidatou\nthe next\nThe University of Wadi Al-Khaimah's Classification and Visibility Follow-up Committee evaluates and sets its strategy\nNext\nMore articles\nAdvertisements\nاعلان عن توضيف\nمنصة التسجيل https://forms.gle/wx74TDfwmCMXtYqD8\nApril 9, 2025\nAdvertisements\nاعلان ترقية على اساس الشهادة\nApril 9, 2025\n0021332120720  ||  0021332120740\nUniversity of Shahid Hama Lakhdar - El Oued - P.O. Box: 789 El Oued, Algeria\n[email protected]\nRelated Links\nMinistry of Higher Education and Scientific Research\nHuman Resources Management Platform\nDigital platforms of the Ministry of Higher Education and Scientific Research\nThe digital floor of the Ministry of Progress\nPayment Rights Registration Platform\nElectronic documentation\nUniversity website archive\nOld website in French\nThe old website in English\nGeographical location\nAll rights reserved to Martyr Hamma Lakhdar University - El Oued University 2024\nDomestic law\nprivacy policy\nConclusions",
+                    "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_324,h_84/https://www.univ-eloued.dz/wp-content/uploads/2024/03/logouef-png.avif"
+                }
+            ]
+        },
+        {
+            "name": "ENSIA",
+            "url": "https://www.ensia.edu.dz/",
+            "staticLogo": "../assets/images/icon.png",
+            "faculties": [
+                {
+                    "name": "Faculty of Food Sciences",
+                    "url": "https://www.ensia.edu.dz/faculty/food-sciences/"
+                },
+                {
+                    "name": "Faculty of Food Engineering",
+                    "url": "https://www.ensia.edu.dz/faculty/food-engineering/"
+                }
+            ],
+            "departments": [
+                {
+                    "name": "Department of Food Technology",
+                    "faculty": "Faculty of Food Sciences"
+                },
+                {
+                    "name": "Department of Nutrition and Food Safety",
+                    "faculty": "Faculty of Food Sciences"
+                },
+                {
+                    "name": "Department of Process Engineering",
+                    "faculty": "Faculty of Food Engineering"
+                },
+                {
+                    "name": "Department of Quality Assurance",
+                    "faculty": "Faculty of Food Engineering"
+                }
+            ],
+            "specialties": [
+                {
+                    "name": "Food Processing Technology",
+                    "department": "Department of Food Technology"
+                },
+                {
+                    "name": "Food Preservation",
+                    "department": "Department of Food Technology"
+                },
+                {
+                    "name": "Nutritional Sciences",
+                    "department": "Department of Nutrition and Food Safety"
+                },
+                {
+                    "name": "Food Safety Management",
+                    "department": "Department of Nutrition and Food Safety"
+                },
+                {
+                    "name": "Food Process Engineering",
+                    "department": "Department of Process Engineering"
+                },
+                {
+                    "name": "Food Quality Management",
+                    "department": "Department of Quality Assurance"
+                }
+            ],
+            "news": [
+                {
+                    "title": "ENSIA Hosts International Food Science Conference",
+                    "description": "The National School of Food Science and Agri-food Industries hosted the 5th International Conference on Food Innovation and Safety.",
+                    "url": "https://www.ensia.edu.dz/news/international-food-science-conference/",
+                    "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/03/conference-image.jpg"
+                },
+                {
+                    "title": "New Research Partnership with Industry Leaders",
+                    "description": "ENSIA announces new research partnerships with leading food industry companies to advance innovation in food processing technologies.",
+                    "url": "https://www.ensia.edu.dz/news/research-partnership-industry/",
+                    "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/02/partnership-signing.jpg"
+                },
+                {
+                    "title": "Student Research Showcase 2025",
+                    "description": "ENSIA students presented their innovative research projects at the annual Student Research Showcase.",
+                    "url": "https://www.ensia.edu.dz/news/student-research-showcase-2025/",
+                    "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/02/student-showcase.jpg"
+                }
+            ],
+            "events": [
+                {
+                    "title": "Food Innovation Workshop",
+                    "date": "April 15, 2025",
+                    "link": "https://www.ensia.edu.dz/events/food-innovation-workshop/",
+                    "content": "Join us for a hands-on workshop exploring cutting-edge food innovation techniques and technologies.",
+                    "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/03/workshop-banner.jpg"
+                },
+                {
+                    "title": "Annual Food Science Symposium",
+                    "date": "May 20, 2025",
+                    "link": "https://www.ensia.edu.dz/events/annual-food-science-symposium/",
+                    "content": "The symposium brings together researchers, industry professionals, and students to discuss advancements in food science.",
+                    "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/04/symposium-banner.jpg"
+                },
+                {
+                    "title": "Career Fair: Food Industry Opportunities",
+                    "date": "June 5, 2025",
+                    "link": "https://www.ensia.edu.dz/events/career-fair-2025/",
+                    "content": "Connect with potential employers and explore career opportunities in the food industry.",
+                    "image": "https://www.ensia.edu.dz/wp-content/uploads/2025/04/career-fair.jpg"
+                }
+            ]
+        },
+        {
+            "name": "University of Ghardaia",
+            "url": "https://www.univ-ghardaia.dz/",
+            "staticLogo": "../assets/images/react-logo.png",
+            "faculties": [
+                {
+                    "name": "Faculty of Sciences and Technology",
+                    "url": "https://fst.univ-ghardaia.edu.dz"
+                },
+                {
+                    "name": "Faculty of Natural Sciences, Life and Earth Sciences",
+                    "url": "https://fsnv.univ-ghardaia.edu.dz"
+                },
+                {
+                    "name": "Faculty of Economic and Commercial Sciences and Management Sciences",
+                    "url": "https://fsecg.univ-ghardaia.edu.dz"
+                },
+                {
+                    "name": "Faculty of Literature and Languages",
+                    "url": "https://fll.univ-ghardaia.edu.dz"
+                },
+                {
+                    "name": "Faculty of Social Sciences and Humanities",
+                    "url": "https://fssh.univ-ghardaia.edu.dz"
+                },
+                {
+                    "name": "Faculty of Law and Political Sciences",
+                    "url": "https://fdsp.univ-ghardaia.edu.dz"
+                }
+            ],
+            "departments": [
+                {
+                    "name": "Department of Civil Engineering",
+                    "faculty": "Faculty of Sciences and Technology"
+                },
+                {
+                    "name": "Department of Electrical Engineering",
+                    "faculty": "Faculty of Sciences and Technology"
+                },
+                {
+                    "name": "Department of Mechanical Engineering", 
+                    "faculty": "Faculty of Sciences and Technology"
+                },
+                {
+                    "name": "Department of Computer Science",
+                    "faculty": "Faculty of Sciences and Technology"
+                },
+                {
+                    "name": "Department of Biology",
+                    "faculty": "Faculty of Natural Sciences, Life and Earth Sciences"
+                },
+                {
+                    "name": "Department of Environmental Sciences",
+                    "faculty": "Faculty of Natural Sciences, Life and Earth Sciences"
+                },
+                {
+                    "name": "Department of Economics",
+                    "faculty": "Faculty of Economic and Commercial Sciences and Management Sciences"
+                },
+                {
+                    "name": "Department of Management",
+                    "faculty": "Faculty of Economic and Commercial Sciences and Management Sciences"
+                },
+                {
+                    "name": "Department of Commercial Sciences",
+                    "faculty": "Faculty of Economic and Commercial Sciences and Management Sciences"
+                },
+                {
+                    "name": "Department of English Studies",
+                    "faculty": "Faculty of Literature and Languages"
+                },
+                {
+                    "name": "Department of Arabic Language and Literature",
+                    "faculty": "Faculty of Literature and Languages"
+                },
+                {
+                    "name": "Department of French Studies",
+                    "faculty": "Faculty of Literature and Languages"
+                },
+                {
+                    "name": "Department of Sociology",
+                    "faculty": "Faculty of Social Sciences and Humanities"
+                },
+                {
+                    "name": "Department of Psychology",
+                    "faculty": "Faculty of Social Sciences and Humanities"
+                },
+                {
+                    "name": "Department of Law",
+                    "faculty": "Faculty of Law and Political Sciences"
+                },
+                {
+                    "name": "Department of Political Sciences",
+                    "faculty": "Faculty of Law and Political Sciences"
+                }
+            ],
+            "specialties": [
+                {
+                    "name": "Structural Engineering",
+                    "department": "Department of Civil Engineering"
+                },
+                {
+                    "name": "Electrical Power Systems",
+                    "department": "Department of Electrical Engineering"
+                },
+                {
+                    "name": "Mechanical Design",
+                    "department": "Department of Mechanical Engineering"
+                },
+                {
+                    "name": "Software Engineering",
+                    "department": "Department of Computer Science"
+                },
+                {
+                    "name": "Molecular Biology",
+                    "department": "Department of Biology"
+                },
+                {
+                    "name": "Environmental Management",
+                    "department": "Department of Environmental Sciences"
+                },
+                {
+                    "name": "Financial Economics",
+                    "department": "Department of Economics"
+                },
+                {
+                    "name": "Business Administration",
+                    "department": "Department of Management"
+                },
+                {
+                    "name": "Marketing",
+                    "department": "Department of Commercial Sciences"
+                },
+                {
+                    "name": "English Literature",
+                    "department": "Department of English Studies"
+                },
+                {
+                    "name": "Arabic Literature",
+                    "department": "Department of Arabic Language and Literature"
+                },
+                {
+                    "name": "French Literature",
+                    "department": "Department of French Studies"
+                },
+                {
+                    "name": "Community Development",
+                    "department": "Department of Sociology"
+                },
+                {
+                    "name": "Clinical Psychology",
+                    "department": "Department of Psychology"
+                },
+                {
+                    "name": "Civil Law",
+                    "department": "Department of Law"
+                },
+                {
+                    "name": "International Relations",
+                    "department": "Department of Political Sciences"
+                }
+            ],
+            "news": [
+                {
+                    "title": "University of Ghardaia Hosts International Conference on Sustainable Development",
+                    "description": "Leading researchers from around the world gathered to discuss innovative approaches to sustainable development in arid regions.",
+                    "url": "https://www.univ-ghardaia.edu.dz/en/news/international-conference-sustainable-development/",
+                    "image": "https://www.univ-ghardaia.edu.dz/wp-content/uploads/2025/03/conference-image.jpg"
+                },
+                {
+                    "title": "New Research Center for Desert Ecology Inaugurated",
+                    "description": "The state-of-the-art research center will focus on studying and preserving the unique ecosystem of the Sahara Desert.",
+                    "url": "https://www.univ-ghardaia.edu.dz/en/news/research-center-desert-ecology/",
+                    "image": "https://www.univ-ghardaia.edu.dz/wp-content/uploads/2025/02/research-center.jpg"
+                },
+                {
+                    "title": "University Signs Partnership Agreement with European Universities",
+                    "description": "The partnership will facilitate student and faculty exchange programs and joint research initiatives.",
+                    "url": "https://www.univ-ghardaia.edu.dz/en/news/partnership-european-universities/",
+                    "image": "https://www.univ-ghardaia.edu.dz/wp-content/uploads/2025/01/partnership-signing.jpg"
+                }
+            ],
+            "events": [
+                {
+                    "title": "African Union Kwame Nkrumah Awards for Scientific Excellence",
+                    "link": "https://relex.univ-ghardaia.edu.dz/en/african-union-kwame-nkrumah-awards-for-scientific-excellence.html",
+                    "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/Kwame-Nkrumah.jpg",
+                    "date": "November 8, 2020",
+                    "pdf_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/Lettre-DCEIU-min.pdf"
+                },
+                {
+                    "title": "Challenge Campus 2030 – Edition 2: Imagine the sustainable university of the future!",
+                    "link": "https://relex.univ-ghardaia.edu.dz/en/challenge-campus-2030-edition-2-imagine-the-sustainable-university-of-the-future.html",
+                    "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/11/ONU_2021_Bannieres_post_fcb_-_1200X628-700x366-1-660x330.jpg",
+                    "date": "November 3, 2020",
+                    "content": "Challenge Campus 2030 – Edition 2: Imagine the sustainable university of the future!\nNovember 3, 2020\nAnnouncements\n,\nFeatured Articles\n224 Views\nImagine...\n«\nIt's September 2030 and the Agenda for the 17 Sustainable Development Goals (SDGs) has ended. Students over the world are returning to their Campuses, which are now finally sustainable.\n»\nUniversity campuses are at the heart of the change: in 10 years, they should have achieved the 17 SDGs to be able to welcome and educate the next generation! What will these Campuses be like?\nImagine a solution that will allow these sites to be considered socially, economically and environmentally sustainable.\nFor More Informations :\nClick Here\nShare\nFacebook\nTwitter\nLinkedIn"
+                },
+                {
+                    "title": "Launch a program Global Ugrad",
+                    "link": "https://relex.univ-ghardaia.edu.dz/en/launch-a-program-global-ugrad.html",
+                    "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2019/11/globale_ugrad-570x330.jpg",
+                    "date": "October 20, 2020",
+                    "pdf_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/10/CRU-Prog-Global-Ugrad-1-min.pdf"
+                },
+                {
+                    "title": "MENA Scholarship Programme",
+                    "link": "https://relex.univ-ghardaia.edu.dz/en/mena-scholarship-programme.html",
+                    "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2020/03/Holland-Scholarship-for-International-Students.jpg",
+                    "date": "September 29, 2020",
+                    "content": "MENA Scholarship Programme\nSeptember 29, 2020\nFeatured Articles\n,\nScholarships\n206 Views\nScholarships from the Netherlands Embassy in Algiers, for short-term training,\nAs part of the MENA Scholarship Program (MSP) of the Dutch organization for international cooperation in higher education (NUFFIC) in various specialties.\nilovepdf_merged_compressed-2\nDownload\nShare\nFacebook\nTwitter\nLinkedIn"
+                },
+                {
+                    "title": "SAFIR – Youth in action: Presentation of the Call for Applications for Higher Education and Research Institutions",
+                    "link": "https://relex.univ-ghardaia.edu.dz/en/safir-youth-in-action-presentation-of-the-call-for-applications-for-higher-education-and-research-institutions.html",
+                    "image_url": "https://relex.univ-ghardaia.edu.dz/wp-content/uploads/sites/10/2019/10/logo_auf_2018.png",
+                    "date": "September 9, 2020",
+                    "content": "SAFIR – Youth in action: Presentation of the Call for Applications for Higher Education and Research Institutions\nSeptember 9, 2020\nAnnouncements\n,\nFeatured Articles\n296 Views\nAAC_PDF-EESR_EN-min\nDownload\nShare\nFacebook\nTwitter\nLinkedIn"
+                }
+            ]
+        },
+        {
+            "name": "MIT",
+            "url": "https://web.mit.edu/",
+            "staticLogo": "../assets/images/splash-icon.png",
+            "faculties": [
+                {
+                    "name": "School of Architecture and Planning",
+                    "url": "https://sap.mit.edu/"
+                },
+                {
+                    "name": "School of Engineering",
+                    "url": "https://engineering.mit.edu/"
+                },
+                {
+                    "name": "School of Humanities, Arts, and Social Sciences",
+                    "url": "https://shass.mit.edu/"
+                },
+                {
+                    "name": "Sloan School of Management",
+                    "url": "http://mitsloan.mit.edu/"
+                },
+                {
+                    "name": "School of Science",
+                    "url": "https://science.mit.edu"
+                },
+                {
+                    "name": "MIT Schwarzman College of Computing",
+                    "url": "http://computing.mit.edu/"
+                }
+            ],
+            "departments": [
+                {
+                    "name": "Architecture4",
+                    "url": "https://architecture.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Architecture + Urbanism",
+                            "url": "https://architecture.mit.edu/architecture-urbanism"
+                        },
+                        {
+                            "name": "Art Culture + Technology",
+                            "url": "https://architecture.mit.edu/art-culture-technology"
+                        },
+                        {
+                            "name": "Building Technology",
+                            "url": "https://architecture.mit.edu/building-technology"
+                        },
+                        {
+                            "name": "Computation",
+                            "url": "https://architecture.mit.edu/computation"
+                        },
+                        {
+                            "name": "History Theory + Criticism",
+                            "url": "https://architecture.mit.edu/history-theory-criticism"
+                        },
+                        {
+                            "name": "Aga Khan Program for Islamic Architecture",
+                            "url": "https://architecture.mit.edu/aga-khan-program-islamic-architecture"
+                        },
+                        {
+                            "name": "Undergraduate Architecture + Design",
+                            "url": "https://architecture.mit.edu/undergraduate-architecture-design"
+                        }
+                    ]
+                },
+                {
+                    "name": "Media Arts and SciencesMAS",
+                    "url": "https://www.media.mit.edu/",
+                    "specialties": []
+                },
+                {
+                    "name": "Urban Studies and Planning11",
+                    "url": "https://dusp.mit.edu/",
+                    "specialties": []
+                },
+                {
+                    "name": "Aeronautics and Astronautics16",
+                    "url": "http://aeroastro.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Aerospace Computational Engineering",
+                            "department": "Aeronautics and Astronautics16"
+                        },
+                        {
+                            "name": "Aerospace Systems",
+                            "department": "Aeronautics and Astronautics16"
+                        },
+                        {
+                            "name": "Air Transportation Systems",
+                            "department": "Aeronautics and Astronautics16"
+                        },
+                        {
+                            "name": "Air-Breathing Propulsion",
+                            "department": "Aeronautics and Astronautics16"
+                        },
+                        {
+                            "name": "Aircraft Systems Engineering",
+                            "department": "Aeronautics and Astronautics16"
+                        },
+                        {
+                            "name": "Space Propulsion",
+                            "department": "Aeronautics and Astronautics16"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biological Engineering20",
+                    "url": "https://be.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Biomechanics and Biophysics",
+                            "department": "Biological Engineering20"
+                        },
+                        {
+                            "name": "Cell and Tissue Engineering",
+                            "department": "Biological Engineering20"
+                        },
+                        {
+                            "name": "Computational and Systems Biology",
+                            "department": "Biological Engineering20"
+                        },
+                        {
+                            "name": "Microbial Systems",
+                            "department": "Biological Engineering20"
+                        },
+                        {
+                            "name": "Molecular Engineering",
+                            "department": "Biological Engineering20"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chemical Engineering10",
+                    "url": "https://cheme.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Energy Science and Engineering",
+                            "department": "Chemical Engineering10"
+                        },
+                        {
+                            "name": "Biomedical and Biotechnology",
+                            "department": "Chemical Engineering10"
+                        },
+                        {
+                            "name": "Transport and Thermodynamics",
+                            "department": "Chemical Engineering10"
+                        },
+                        {
+                            "name": "Materials and Product Engineering",
+                            "department": "Chemical Engineering10"
+                        },
+                        {
+                            "name": "Catalysis and Reaction Engineering",
+                            "department": "Chemical Engineering10"
+                        }
+                    ]
+                },
+                {
+                    "name": "Civil and Environmental Engineering1",
+                    "url": "https://cee.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Environmental Chemistry",
+                            "department": "Civil and Environmental Engineering1"
+                        },
+                        {
+                            "name": "Environmental Fluid Mechanics and Coastal Engineering",
+                            "department": "Civil and Environmental Engineering1"
+                        },
+                        {
+                            "name": "Geotechnical Engineering",
+                            "department": "Civil and Environmental Engineering1"
+                        },
+                        {
+                            "name": "Structures and Materials",
+                            "department": "Civil and Environmental Engineering1"
+                        },
+                        {
+                            "name": "Systems Engineering",
+                            "department": "Civil and Environmental Engineering1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Electrical Engineering and Computer Science6",
+                    "url": "https://www.eecs.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Artificial Intelligence",
+                            "department": "Electrical Engineering and Computer Science6"
+                        },
+                        {
+                            "name": "Bioelectrical Engineering",
+                            "department": "Electrical Engineering and Computer Science6"
+                        },
+                        {
+                            "name": "Computer Systems",
+                            "department": "Electrical Engineering and Computer Science6"
+                        },
+                        {
+                            "name": "Graphics and Human-Computer Interfaces",
+                            "department": "Electrical Engineering and Computer Science6"
+                        },
+                        {
+                            "name": "Integrated Circuits and Systems",
+                            "department": "Electrical Engineering and Computer Science6"
+                        },
+                        {
+                            "name": "Machine Learning",
+                            "department": "Electrical Engineering and Computer Science6"
+                        },
+                        {
+                            "name": "Robotics",
+                            "department": "Electrical Engineering and Computer Science6"
+                        }
+                    ]
+                },
+                {
+                    "name": "Materials Science and Engineering3",
+                    "url": "https://dmse.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Electronic, Photonic and Magnetic Materials",
+                            "department": "Materials Science and Engineering3"
+                        },
+                        {
+                            "name": "Materials Processing",
+                            "department": "Materials Science and Engineering3"
+                        },
+                        {
+                            "name": "Structural Materials",
+                            "department": "Materials Science and Engineering3"
+                        },
+                        {
+                            "name": "Computational Materials Science",
+                            "department": "Materials Science and Engineering3"
+                        },
+                        {
+                            "name": "Quantum Engineering",
+                            "department": "Materials Science and Engineering3"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mechanical Engineering2",
+                    "url": "http://meche.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Controls, Instrumentation, and Robotics",
+                            "department": "Mechanical Engineering2"
+                        },
+                        {
+                            "name": "Energy Science and Engineering",
+                            "department": "Mechanical Engineering2"
+                        },
+                        {
+                            "name": "Mechanics: Modeling, Experimentation, and Computation",
+                            "department": "Mechanical Engineering2"
+                        },
+                        {
+                            "name": "Design and Manufacturing",
+                            "department": "Mechanical Engineering2"
+                        },
+                        {
+                            "name": "Ocean Science and Engineering",
+                            "department": "Mechanical Engineering2"
+                        },
+                        {
+                            "name": "Biomedical Engineering",
+                            "department": "Mechanical Engineering2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Medical Engineering and ScienceIMES",
+                    "url": "http://imes.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Medical Devices",
+                            "department": "Medical Engineering and ScienceIMES"
+                        },
+                        {
+                            "name": "Medical Imaging",
+                            "department": "Medical Engineering and ScienceIMES"
+                        },
+                        {
+                            "name": "Medical Bioinformatics",
+                            "department": "Medical Engineering and ScienceIMES"
+                        },
+                        {
+                            "name": "Biomedical Optics",
+                            "department": "Medical Engineering and ScienceIMES"
+                        }
+                    ]
+                },
+                {
+                    "name": "Nuclear Science and Engineering22",
+                    "url": "http://web.mit.edu/nse/",
+                    "specialties": [
+                        {
+                            "name": "Nuclear Reactor Physics and Engineering",
+                            "department": "Nuclear Science and Engineering22"
+                        },
+                        {
+                            "name": "Nuclear Security and Policy",
+                            "department": "Nuclear Science and Engineering22"
+                        },
+                        {
+                            "name": "Nuclear Materials",
+                            "department": "Nuclear Science and Engineering22"
+                        },
+                        {
+                            "name": "Fusion and Plasma Physics",
+                            "department": "Nuclear Science and Engineering22"
+                        },
+                        {
+                            "name": "Radiation Sources, Detection, and Medical Applications",
+                            "department": "Nuclear Science and Engineering22"
+                        }
+                    ]
+                },
+                {
+                    "name": "Anthropology21A",
+                    "url": "http://anthropology.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Cultural Anthropology",
+                            "department": "Anthropology21A"
+                        },
+                        {
+                            "name": "Archaeology",
+                            "department": "Anthropology21A"
+                        },
+                        {
+                            "name": "Science and Technology Studies",
+                            "department": "Anthropology21A"
+                        }
+                    ]
+                },
+                {
+                    "name": "Comparative Media Studies/WritingCMS/21W",
+                    "url": "https://cmsw.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Digital Media",
+                            "department": "Comparative Media Studies/WritingCMS/21W"
+                        },
+                        {
+                            "name": "Games and Interactive Media",
+                            "department": "Comparative Media Studies/WritingCMS/21W"
+                        },
+                        {
+                            "name": "Media in Cultural Context",
+                            "department": "Comparative Media Studies/WritingCMS/21W"
+                        },
+                        {
+                            "name": "Creative Writing",
+                            "department": "Comparative Media Studies/WritingCMS/21W"
+                        },
+                        {
+                            "name": "Science Writing",
+                            "department": "Comparative Media Studies/WritingCMS/21W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Economics14",
+                    "url": "http://economics.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Econometrics",
+                            "department": "Economics14"
+                        },
+                        {
+                            "name": "Economic Development",
+                            "department": "Economics14"
+                        },
+                        {
+                            "name": "Industrial Organization",
+                            "department": "Economics14"
+                        },
+                        {
+                            "name": "International Economics",
+                            "department": "Economics14"
+                        },
+                        {
+                            "name": "Labor Economics",
+                            "department": "Economics14"
+                        },
+                        {
+                            "name": "Macroeconomics",
+                            "department": "Economics14"
+                        },
+                        {
+                            "name": "Public Economics",
+                            "department": "Economics14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Global Languages21G",
+                    "url": "https://mitgsl.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Chinese Language and Culture",
+                            "department": "Global Languages21G"
+                        },
+                        {
+                            "name": "French Language and Culture",
+                            "department": "Global Languages21G"
+                        },
+                        {
+                            "name": "German Language and Culture",
+                            "department": "Global Languages21G"
+                        },
+                        {
+                            "name": "Japanese Language and Culture",
+                            "department": "Global Languages21G"
+                        },
+                        {
+                            "name": "Spanish Language and Culture",
+                            "department": "Global Languages21G"
+                        },
+                        {
+                            "name": "Portuguese Language and Culture",
+                            "department": "Global Languages21G"
+                        },
+                        {
+                            "name": "Russian Language and Culture",
+                            "department": "Global Languages21G"
+                        }
+                    ]
+                },
+                {
+                    "name": "History21H",
+                    "url": "http://history.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "American History",
+                            "department": "History21H"
+                        },
+                        {
+                            "name": "Asian History",
+                            "department": "History21H"
+                        },
+                        {
+                            "name": "European History",
+                            "department": "History21H"
+                        },
+                        {
+                            "name": "History of Science and Technology",
+                            "department": "History21H"
+                        },
+                        {
+                            "name": "World History",
+                            "department": "History21H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Humanities21",
+                    "url": "http://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/humanities/",
+                    "specialties": [
+                        {
+                            "name": "American Studies",
+                            "department": "Humanities21"
+                        },
+                        {
+                            "name": "Ancient and Medieval Studies",
+                            "department": "Humanities21"
+                        },
+                        {
+                            "name": "Digital Humanities",
+                            "department": "Humanities21"
+                        },
+                        {
+                            "name": "Latin American Studies",
+                            "department": "Humanities21"
+                        }
+                    ]
+                },
+                {
+                    "name": "Humanities + Engineering/Science21E/21S",
+                    "url": "https://shass.mit.edu/undergraduate/joint",
+                    "specialties": [
+                        {
+                            "name": "Humanities and Engineering",
+                            "department": "Humanities + Engineering/Science21E/21S"
+                        },
+                        {
+                            "name": "Humanities and Science",
+                            "department": "Humanities + Engineering/Science21E/21S"
+                        }
+                    ]
+                },
+                {
+                    "name": "Linguistics24",
+                    "url": "http://linguistics.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Phonology",
+                            "department": "Linguistics24"
+                        },
+                        {
+                            "name": "Syntax",
+                            "department": "Linguistics24"
+                        },
+                        {
+                            "name": "Semantics",
+                            "department": "Linguistics24"
+                        },
+                        {
+                            "name": "Computational Linguistics",
+                            "department": "Linguistics24"
+                        },
+                        {
+                            "name": "Psycholinguistics",
+                            "department": "Linguistics24"
+                        }
+                    ]
+                },
+                {
+                    "name": "Literature21L",
+                    "url": "https://lit.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "American Literature",
+                            "department": "Literature21L"
+                        },
+                        {
+                            "name": "British Literature",
+                            "department": "Literature21L"
+                        },
+                        {
+                            "name": "Comparative Media Studies",
+                            "department": "Literature21L"
+                        },
+                        {
+                            "name": "Digital Media",
+                            "department": "Literature21L"
+                        },
+                        {
+                            "name": "Film and Media",
+                            "department": "Literature21L"
+                        },
+                        {
+                            "name": "World Literatures",
+                            "department": "Literature21L"
+                        }
+                    ]
+                },
+                {
+                    "name": "Music and Theater Arts21M",
+                    "url": "https://mta.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Music Composition",
+                            "department": "Music and Theater Arts21M"
+                        },
+                        {
+                            "name": "Music Performance",
+                            "department": "Music and Theater Arts21M"
+                        },
+                        {
+                            "name": "Music Technology",
+                            "department": "Music and Theater Arts21M"
+                        },
+                        {
+                            "name": "Theater Arts",
+                            "department": "Music and Theater Arts21M"
+                        },
+                        {
+                            "name": "Dance",
+                            "department": "Music and Theater Arts21M"
+                        }
+                    ]
+                },
+                {
+                    "name": "Philosophy24",
+                    "url": "http://web.mit.edu/philosophy/",
+                    "specialties": [
+                        {
+                            "name": "Ethics",
+                            "department": "Philosophy24"
+                        },
+                        {
+                            "name": "Philosophy of Language",
+                            "department": "Philosophy24"
+                        },
+                        {
+                            "name": "Philosophy of Mind",
+                            "department": "Philosophy24"
+                        },
+                        {
+                            "name": "Philosophy of Science",
+                            "department": "Philosophy24"
+                        },
+                        {
+                            "name": "Political Philosophy",
+                            "department": "Philosophy24"
+                        }
+                    ]
+                },
+                {
+                    "name": "Political Science17",
+                    "url": "https://polisci.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "American Politics",
+                            "department": "Political Science17"
+                        },
+                        {
+                            "name": "Comparative Politics",
+                            "department": "Political Science17"
+                        },
+                        {
+                            "name": "International Relations",
+                            "department": "Political Science17"
+                        },
+                        {
+                            "name": "Political Economy",
+                            "department": "Political Science17"
+                        },
+                        {
+                            "name": "Security Studies",
+                            "department": "Political Science17"
+                        }
+                    ]
+                },
+                {
+                    "name": "Science, Technology, and SocietySTS",
+                    "url": "http://sts-program.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "History of Science and Technology",
+                            "department": "Science, Technology, and SocietySTS"
+                        },
+                        {
+                            "name": "Social Studies of Science and Technology",
+                            "department": "Science, Technology, and SocietySTS"
+                        },
+                        {
+                            "name": "Science and Technology Policy",
+                            "department": "Science, Technology, and SocietySTS"
+                        },
+                        {
+                            "name": "Ethics of Science and Technology",
+                            "department": "Science, Technology, and SocietySTS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Management15",
+                    "url": "https://mitsloan.mit.edu/undergrad#15-1-management",
+                    "specialties": [
+                        {
+                            "name": "Finance",
+                            "department": "Management15"
+                        },
+                        {
+                            "name": "Marketing",
+                            "department": "Management15"
+                        },
+                        {
+                            "name": "Operations Management",
+                            "department": "Management15"
+                        },
+                        {
+                            "name": "Business Analytics",
+                            "department": "Management15"
+                        },
+                        {
+                            "name": "Entrepreneurship and Innovation",
+                            "department": "Management15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Biology7",
+                    "url": "https://biology.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Biochemistry",
+                            "department": "Biology7"
+                        },
+                        {
+                            "name": "Cell Biology",
+                            "department": "Biology7"
+                        },
+                        {
+                            "name": "Computational and Systems Biology",
+                            "department": "Biology7"
+                        },
+                        {
+                            "name": "Genetics",
+                            "department": "Biology7"
+                        },
+                        {
+                            "name": "Microbiology",
+                            "department": "Biology7"
+                        },
+                        {
+                            "name": "Molecular Biology",
+                            "department": "Biology7"
+                        },
+                        {
+                            "name": "Neurobiology",
+                            "department": "Biology7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Brain and Cognitive Sciences9",
+                    "url": "https://bcs.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Cellular and Molecular Neuroscience",
+                            "department": "Brain and Cognitive Sciences9"
+                        },
+                        {
+                            "name": "Cognitive Neuroscience",
+                            "department": "Brain and Cognitive Sciences9"
+                        },
+                        {
+                            "name": "Computational Neuroscience",
+                            "department": "Brain and Cognitive Sciences9"
+                        },
+                        {
+                            "name": "Systems Neuroscience",
+                            "department": "Brain and Cognitive Sciences9"
+                        },
+                        {
+                            "name": "Cognitive Science",
+                            "department": "Brain and Cognitive Sciences9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chemistry5",
+                    "url": "http://chemistry.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Biological Chemistry",
+                            "department": "Chemistry5"
+                        },
+                        {
+                            "name": "Inorganic Chemistry",
+                            "department": "Chemistry5"
+                        },
+                        {
+                            "name": "Organic Chemistry",
+                            "department": "Chemistry5"
+                        },
+                        {
+                            "name": "Physical Chemistry",
+                            "department": "Chemistry5"
+                        },
+                        {
+                            "name": "Materials Chemistry",
+                            "department": "Chemistry5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Earth, Atmospheric, and Planetary Sciences12",
+                    "url": "https://eapsweb.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Atmospheric Sciences",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        },
+                        {
+                            "name": "Climate Science",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        },
+                        {
+                            "name": "Geobiology",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        },
+                        {
+                            "name": "Geochemistry",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        },
+                        {
+                            "name": "Geology",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        },
+                        {
+                            "name": "Geophysics",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        },
+                        {
+                            "name": "Planetary Sciences",
+                            "department": "Earth, Atmospheric, and Planetary Sciences12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mathematics18",
+                    "url": "https://math.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Analysis",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Applied Mathematics",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Combinatorics",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Computational Mathematics",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Geometry",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Number Theory",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Probability and Statistics",
+                            "department": "Mathematics18"
+                        },
+                        {
+                            "name": "Topology",
+                            "department": "Mathematics18"
+                        }
+                    ]
+                },
+                {
+                    "name": "Physics8",
+                    "url": "http://web.mit.edu/physics/",
+                    "specialties": [
+                        {
+                            "name": "Astrophysics",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Atomic Physics",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Biophysics",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Condensed Matter Physics",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Nuclear Physics",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Particle Physics",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Quantum Computing",
+                            "department": "Physics8"
+                        },
+                        {
+                            "name": "Theoretical Physics",
+                            "department": "Physics8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Data, Systems, and SocietyIDS",
+                    "url": "https://idss.mit.edu/",
+                    "specialties": [
+                        {
+                            "name": "Data Science and Statistics",
+                            "department": "Data, Systems, and SocietyIDS"
+                        },
+                        {
+                            "name": "Social and Engineering Systems",
+                            "department": "Data, Systems, and SocietyIDS"
+                        },
+                        {
+                            "name": "Information and Decision Systems",
+                            "department": "Data, Systems, and SocietyIDS"
+                        },
+                        {
+                            "name": "Computational Social Science",
+                            "department": "Data, Systems, and SocietyIDS"
+                        }
+                    ]
+                }
+            ],
+            "specialties": [
+                {
+                    "name": "Architecture + Urbanism",
+                    "url": "https://architecture.mit.edu/architecture-urbanism"
+                },
+                {
+                    "name": "Art Culture + Technology",
+                    "url": "https://architecture.mit.edu/art-culture-technology"
+                },
+                {
+                    "name": "Building Technology",
+                    "url": "https://architecture.mit.edu/building-technology"
+                },
+                {
+                    "name": "Computation",
+                    "url": "https://architecture.mit.edu/computation"
+                },
+                {
+                    "name": "History Theory + Criticism",
+                    "url": "https://architecture.mit.edu/history-theory-criticism"
+                },
+                {
+                    "name": "Aga Khan Program for Islamic Architecture",
+                    "url": "https://architecture.mit.edu/aga-khan-program-islamic-architecture"
+                },
+                {
+                    "name": "Undergraduate Architecture + Design",
+                    "url": "https://architecture.mit.edu/undergraduate-architecture-design"
+                }
+            ],
+            "news": [],
+            "events": [
+                {
+                    "title": "Critical metal refining, simplified",
+                    "url": "https://calendar.mit.edu/event/critical-metal-refining-simplified",
+                    "datetime": "Thursday, April 10, 2025 | 12pm to 12:30pm",
+                    "image": ""
+                },
+                {
+                    "title": "Global Climate Adaptation: Overcoming Political and Policy Challenges",
+                    "url": "https://calendar.mit.edu/event/global-climate-adaptation-overcoming-political-and-policy-changes",
+                    "datetime": "Friday, April 11, 2025 | 8:30am to 5pm",
+                    "image": ""
+                },
+                {
+                    "title": "McGovern Institute 25th Anniversary Symposium",
+                    "url": "https://calendar.mit.edu/event/mcgovern-institute-25th-anniversary-symposium",
+                    "datetime": "Friday, April 11, 2025 | 1pm to 5:30pm",
+                    "image": ""
+                },
+                {
+                    "title": "AI Snake Oil with Arvind Narayanan",
+                    "url": "https://calendar.mit.edu/event/ai-snake-oil-with-arvind-narayanan",
+                    "datetime": "Thursday, April 17, 2025 | 5:30pm to 6:30pm",
+                    "image": ""
+                },
+                {
+                    "title": "In Pursuit of Innovation: A Fireside Chat with Robert S. Langer and Michael John Gorman",
+                    "url": "https://calendar.mit.edu/event/in-pursuit-of-innovation-a-fireside-chat-with-robert-s-langer-and-michael-john-gorman",
+                    "datetime": "Thursday, April 17, 2025 | 6pm to 8pm",
+                    "image": ""
+                },
+                {
+                    "title": "Artfinity: The MIT Festival for the Arts",
+                    "url": "https://calendar.mit.edu/event/artfinity",
+                    "datetime": "Wed, Apr 9, 2025",
+                    "image": ""
+                },
+                {
+                    "title": "A series of lectures",
+                    "url": "https://calendar.mit.edu/event/a-series-of-lectures",
+                    "datetime": "Wed, Apr 9, 2025 | 9:30am to 11am",
+                    "image": ""
+                },
+                {
+                    "title": "Refracted Histories: 19th-c. Islamic Windows as a Prism into MIT's Past, Present, and Future",
+                    "url": "https://calendar.mit.edu/event/refracted-histories-19th-c-islamic-windows-as-a-prism-into-mits-past-present-and-future",
+                    "datetime": "Wed, Apr 9, 2025 | 10am to 4pm",
+                    "image": ""
+                },
+                {
+                    "title": "MIT Museum Highlights Tour",
+                    "url": "https://calendar.mit.edu/event/mit-museum-highlights-tour",
+                    "datetime": "Wed, Apr 9, 2025 | 11am to 11:45am",
+                    "image": ""
+                },
+                {
+                    "title": "Writing Together: In-person Writing Retreat",
+                    "url": "https://calendar.mit.edu/event/copy-of-join-the-wcc-for-a-writing-together-in-person-retreat-1268",
+                    "datetime": "Wed, Apr 9, 2025 | 11am to 3:30pm",
+                    "image": ""
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "scraped_at": "2025-04-10T00:51:42.220930",
+        "version": "1.0",
+        "total_universities": 4,
+        "header": {
+            "title": "Unified University Data",
+            "description": "Comprehensive dataset of universities, faculties, departments, specialties, news, and events",
+            "generated_on": "2025-04-10",
+            "data_structure_version": "1.0",
+            "included_universities": ["University of El Oued", "ENSIA", "University of Ghardaia", "MIT"]
+        }
+    }
+}
